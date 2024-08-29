@@ -1,3 +1,14 @@
+---
+layout: post 
+title: "Curso de Treinador de Cães"
+categories: cães, treino, referencia, manual, curso 
+author: 
+- Oscar FM 
+- Monkey King 
+- Sun Wukong 
+- OdicforceSounds 
+meta: "psicologia" 
+
 <h1 style="text-align:center">Curso de Treinador de Cães</h1>
 
 <h2 style="text-align:center">Introdução</h2>
