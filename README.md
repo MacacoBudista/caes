@@ -264,12 +264,20 @@ vi. Por último, faz um ataque e marca ou morde num acto de defesa própria ou c
 <div style="text-align:justify">
 
 **Comunicação**: Os cães utilizam o ladrar como forma de comunicação. Podem ladrar para o avisar que querem algo, como comida ou atenção, ou para o alertar de um potencial perigo. O ladrar também pode ser uma forma de os cães expressarem excitação ou frustração.
+
 **Proteção**: Os cães protegem naturalmente o seu território e os seus entes queridos. O ladrar pode ser a sua forma de avisar os intrusos ou as ameaças sentidas para se manterem afastados. Embora este instinto seja útil, o ladrar excessivo pode ser problemático.
+
 **Ansiedade e medo**: Os cães podem ladrar por ansiedade ou medo, especialmente quando se encontram em situações desconhecidas ou stressantes. É a sua forma de sinalizar o seu desconforto ou de tentar defender-se.
+
 **Tédio e solidão**: Os cães deixados sozinhos durante longos períodos podem recorrer ao ladrar como forma de aliviar o tédio ou a solidão. Podem estar a procurar atenção ou simplesmente a tentar passar o tempo.
+
 **Problemas médicos**: Por vezes, o ladrar excessivo pode ser um sintoma de um problema médico subjacente, como dor ou desconforto. Se o ladrar do seu cão parecer invulgar ou fora do normal, é melhor consultar um veterinário.
+
 **Excitação**: Este ladrar exprime alegria ou expectativa de que algo de bom irá acontecer. Esta vocalização destingue-se pelo seu som alto e agudo que pode acompanhar com sequências de gemidos. 
+
 **Aviso**: Um som curto e forte, que avisa um possível inimígo. 
+
 **Aprendido**: Na associação de um reforço positivo, o cão repete este ladrar, para atingir o objectivo. 
 
 </div>
+
