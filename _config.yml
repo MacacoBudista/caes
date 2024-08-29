@@ -1,12 +1,12 @@
+remote_theme: pages-themes/primer@v0.2.0
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: "Curso de Treinador de Cães"
 description: "Conteúdo informativo sobre vários aspectos dos canídeos"
 author:
   name: "Oscar FM"
   email: "i00nsu@duck.com"
-theme: minima
-minima: 
-  skin: dark
-  social_links: 
-    - { platform: github, user_url: "https://github.com/MacacoBudista" }
+social_links: 
+- { platform: github, user_url: "https://github.com/MacacoBudista" }
 show_downloads: false
 
