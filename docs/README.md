@@ -246,19 +246,14 @@ O abanar de cauda nem sempre significa que o cão está contente! Alguns estudos
 
 17. **Sinais de Ataque**: 
 
-i. Demonstra incómodo olhando para o outro lado, virando-se, bocejando e movendo-se lentamente.
-
-ii. Arranha e cheira o solo.
-
-iii. Mostra sinais de Stress :  o pelo do seu lombo fica eriçado, ofega, as pupilas ficam dilatadas e os olhos muito abertos, também pode tremer e sacudir-se. Estes sinais indicam que o cão se prepara para fugir ou para atacar.
-
-iv. O Cão deixa de mostrar sinais, permanece imóvel e foca-se na sua ameaça, caso não tenha conseguido neutralizá-la.
-
-v. O Cão rosna e mostra os dentes.
-
+i. Demonstra incómodo olhando para o outro lado, virando-se, bocejando e movendo-se lentamente.<br>
+ii. Arranha e cheira o solo.<br>
+iii. Mostra sinais de Stress :  o pelo do seu lombo fica eriçado, ofega, as pupilas ficam dilatadas e os olhos muito abertos, também pode tremer e sacudir-se. Estes sinais indicam que o cão se prepara para fugir ou para atacar.<br>
+iv. O Cão deixa de mostrar sinais, permanece imóvel e foca-se na sua ameaça, caso não tenha conseguido neutralizá-la.<br>
+v. O Cão rosna e mostra os dentes.<br>
 vi. Por último, faz um ataque e marca ou morde num acto de defesa própria ou como defesa de algo ou alguém que considera que lhe pertence.
 
-<h3 style="text-align:center">A Comunicação  Canina</h3>
+<h3 style="text-align:center">A Comunicação Sonora Canina</h3>
 
 
 **Comunicação**: Os cães utilizam o ladrar como forma de comunicação. Podem ladrar para o avisar que querem algo, como comida ou atenção, ou para o alertar de um potencial perigo. O ladrar também pode ser uma forma de os cães expressarem excitação ou frustração.
@@ -276,6 +271,8 @@ vi. Por último, faz um ataque e marca ou morde num acto de defesa própria ou c
 **Aviso**: Um som curto e forte, que avisa um possível inimígo. 
 
 **Aprendido**: Na associação de um reforço positivo, o cão repete este ladrar, para atingir o objectivo. 
+
+
 
 
 
