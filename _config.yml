@@ -1,8 +1,11 @@
-theme: jekyll-theme-dinky
+theme: minima
+skin: dark
 title: Curso de Treinador de Cães
 description: Conteúdo informativo sobre vários aspectos dos canídeos
 author:
   name: Oscar FM
   email: i00nsu@duck.com
 show_downloads: false
+social_links: 
+{ platform: github, user_url: "https://github.com/MacacoBudista" }
 
