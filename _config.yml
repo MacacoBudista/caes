@@ -1,4 +1,9 @@
 title: Curso de Treinador de Cães
 description: Conteúdo informativo sobre vários aspectos dos canídeos
+author:
+  name: Oscar FM
+  email: i00nsu@duck.com
 show_downloads: false
 theme: jekyll-theme-dinky
+plugins: 
+- jekyll-feed
