@@ -1,0 +1,35 @@
+html {
+    margin:auto;
+}
+
+p{
+    font-size: large;
+    margin-inline: 3rem;
+    text-align: justify;
+}
+
+li{
+    font-size: large;
+}
+
+div {
+    font-size: large;
+    margin-inline: 3rem;
+}
+
+h1{
+    font-size:larger;
+    text-align: center;
+}
+
+h2{
+    font-size:xx-large;
+    text-align: center;
+
+}
+
+h3{
+    font-size:x-large;
+    text-align: center;
+
+}
