@@ -59,6 +59,8 @@ Dependendo do contexto, existem diferentes momentos em que o cão Ladra. Os rest
 
 <h2 style="text-align:center">Classificação de Raças</h2>
 
+<div style="text-align:justify">
+
 As diferentes raças de cães foram categorizadas em 10 diferentes grupos, para filtrar e dividir as difetentes raças em distinções estéticas e temperamentais, nas 344 diferentes raças caninas.
 
 - **Primeiro Grupo**: Cães de Pastor e Boieiros
@@ -90,7 +92,7 @@ Falamos agora de cães que são usados pelos donos como animais de companhia e p
 
 - **Décimo Grupo**: Galgos
 Sejam galgos de pelo comprido e franjeado, de pelo cerdoso ou de pelo curto, estes cães elegantes e de longas pernas são dos animais terrestres mais rápidos do mundo, lado a lado com as chitas. Foram criados para o desempenho de tarefas concretas, como a caça de longa distância. De acordo com a origem de cada qual é possível diferenciar entre os galgos ocidentais e orientais – características destes últimos são as orelhas caídas e a independência de carácter, enquanto os galgos ocidentais são excelentes velocistas e têm orelhas cor-de-rosa.
-
+</div>
 <h2 style="text-align:center">A Educação</h2>
 
 <div style="text-align:justify">
@@ -182,7 +184,7 @@ Existe ainda a definição de punição que também é dual. Considera-se que a 
 
 </div>
 
-<h3 style="text-align:center">A Linguagem Comportal Canina</h3> 
+<h3 style="text-align:center">A Linguagem Corporal Canina</h3> 
 
 <div style="text-align:justify">
 
