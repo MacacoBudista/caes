@@ -195,18 +195,23 @@ O mesmo acontece pessoas, principalmente se não existe uma comunicação além 
 3. **Ficar estático** e com um olhar fixo é um comportamento que dependendo da reação do outro cão, pode ter várias reações. Ora atacar ora fugir.
 4. **Ter movimentos lentos** para acalmar o outro cão. 
 5. **Ficar em posição de brincadeira**. 
+
 ![Quer-Brincadeira](./imagens/brincar.png)
+
 6. **Bocejar** para aliviar o stress. 
 7. **Farejar** é uma forma de ignorar outro cão e demonstrar desinteresse, ajudando-o a gerir melhor situações para evitar conflitos. 
 8. **Intervir** é um comportamento que acontece para tentar impedir um conflito. 
 9. **Coçar-se**. 
 10. **Deitar-se de barriga para cima**, é um sinal de submissão para evitar um conflito e que é muito comum em cães da etapa juvenil. 
+
 ![Sou-Submisso](./imagens/submissao.png)
+
 11. **Sacudir-se** serve para aliviar o stress. 
 12. **Abanar a cauda**: Os movimentos da cauda dão muitas dicas sobre os sentimentos do seu cão! Todas as posições da cauda que vão ser referidas a seguir devem ser sempre avaliadas em conjunto com as expressões faciais e posições corporais que o cão dá. Como por exemplo, a posição das orelhas, do corpo, o facto de rosnar, ou ladrar, entre outros. Desta forma consegue-se decifrar o que o cão está a querer transmitir.
 
 i. **Cauda escondida entre as pernas**:
 Esta posição da cauda pode revelar ansiedade, medo, stress ou desconforto e aparece quando o cão está num ambiente desconhecido ou quando conhece novas pessoas ou animais. Os cães menos confiantes têm uma maior tendência a ter a cauda nesta posição quando, por exemplo, vão à clínica veterinária, ou quando ouvem sons altos ou sentem movimentos repentinos.
+
 ![Tenho-Medo](./imagens/medo.png)
 
 ii. **Cauda numa posição ligeiramente baixa, relaxada**:
@@ -221,6 +226,7 @@ Os cães com a cauda nesta posição geralmente estão confiantes, alerta para o
 
 iv. **Cauda alinhada com o corpo, numa posição neutra**:
 Uma posição neutra significa que o cão está a receber e a processar nova informação e pode também indicar uma postura defensiva.
+
 ![Desconfiado](./imagens//dominante.png)
     
 v. **Movimentos da cauda**:
@@ -262,4 +268,8 @@ vi. Por último, faz um ataque e marca ou morde num acto de defesa própria ou c
 **Ansiedade e medo**: Os cães podem ladrar por ansiedade ou medo, especialmente quando se encontram em situações desconhecidas ou stressantes. É a sua forma de sinalizar o seu desconforto ou de tentar defender-se.
 **Tédio e solidão**: Os cães deixados sozinhos durante longos períodos podem recorrer ao ladrar como forma de aliviar o tédio ou a solidão. Podem estar a procurar atenção ou simplesmente a tentar passar o tempo.
 **Problemas médicos**: Por vezes, o ladrar excessivo pode ser um sintoma de um problema médico subjacente, como dor ou desconforto. Se o ladrar do seu cão parecer invulgar ou fora do normal, é melhor consultar um veterinário.
+**Excitação**: Este ladrar exprime alegria ou expectativa de que algo de bom irá acontecer. Esta vocalização destingue-se pelo seu som alto e agudo que pode acompanhar com sequências de gemidos. 
+**Aviso**: Um som curto e forte, que avisa um possível inimígo. 
+**Aprendido**: Na associação de um reforço positivo, o cão repete este ladrar, para atingir o objectivo. 
+
 </div>
