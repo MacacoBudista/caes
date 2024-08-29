@@ -4,10 +4,7 @@ title: "Curso de Treinador de Cães"
 categories: cães, treino, referencia, manual, curso 
 author: 
 - Oscar FM 
-- Monkey King 
-- Sun Wukong 
-- OdicforceSounds 
-meta: "psicologia" 
+meta: "Psicologia Canina" 
 ---
 
 
