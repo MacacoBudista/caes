@@ -8,6 +8,8 @@ author:
 - Sun Wukong 
 - OdicforceSounds 
 meta: "psicologia" 
+---
+
 
 <h1 style="text-align:center">Curso de Treinador de Cães</h1>
 
