@@ -5,14 +5,29 @@
 <div style="text-align:justify">
 
 Especula-se que a origem dos cães tem registos arqueológicos desde há cerca de 135.000 anos atrás, em vários territórios mundiais, tais como Europa, Russia, India, America no Norte, India, Mongólia e China. Com o nome cientifico de **Canis Lupus**, mais conhecido actualmente por Lobo, é a origem que deu "à luz" os cães que conhecemos actualmente e que diferenciam-se pelo aspecto estético, genético, como também comportamental, tendo o nome de **Canis Lupus Familiaris** e os restos arqueológicos destas subsespécie do Lobo, datam a 14.000 anos atrás, na Alemanha.
+</div>
+
+<div style="text-align:justify">
 
 Sabe-se que a humanidade sempre tentou usar outros seres vivos para se alimentar, para a ajudar em várias funções de trabalho, para atribuir beleza a sua estética social, como também na necessidade de apropriação da matéria terrestre e extraterrestre, ou até de todos os organismos vivos. Naturalmente que este evento histórico e comportamental da humanidade, representa uma espécie de adaptação social entre as várias espécies. Este processo de habituação, demorou vários séculos e continua a dar-se nas sociedades, ora na pespectiva de cuidar e salvar espécies em instinção, seja na necessidade de conviver com as várias espécies não humanas, mas que podem ser humanizadas, pois naturalmente todo o processo repetitivo é por si só, um processo educativo. 
+</div>
+
+<div style="text-align:justify">
 
 A este acontecimento histórico deu-se o nome de "Vínculo humano-cão", para a relação de convivência entre cães e humanos, criando assim um vínculo afetivo que terá sido marcado na memória genética das diferentes espécies. 
+</div>
+
+<div style="text-align:justify">
 
 Neste processo educativo, onde as várias espécies de cães tiveram contacto com as pessoas, qualidades e características destes animais, foram-se moldando e alterando, resultando na facilidade de coexistirem juntos. A este processo de restruturação das qualidades individuais dos cães, deu-se o nome de **Neotenia**. 
+</div>
+
+<div style="text-align:justify">
 
 As grandes diferenças entre o Lobo e o Cão, é do lobo não ladrar e ser sexualmente monogâmico, enquanto que o cão ladra e é poligâmico, como também em pequenas diferenças entre o periodo de maturação individual. Actualmente o cão tem uma educação alimentar de comida contrafeita, o que também diminui os instintos predadores, pois o cão deixa de ter de caçar para comer, como também, deixa de ter contacto salivar com a carne crua. Talvez por esta razão, por vezes poderá haver cães que rejeitam comida que desconhecem, sendo que o nome desse evento de rejeição tem como definição de **Neofobia**. 
+</div>
+
+<div style="text-align:justify">
 
 Considera-se que as diferentes raças caninas desenvolveram qualidades especificas, umas que são mais predatórias e outras mais dóceis e sociais, sabendo que, são as experiências de cada animal, que potenciam ou diminuem as irregularidades comportamentais. As técnicas educativas é que serão as responsáveis pelo comportamento futuro dos animais em questão. 
 
@@ -86,23 +101,45 @@ Todos as técnicas educativas, poderão usar métodos e formas de prémio ou de 
 
 <div style="text-align:justify">
 
-Na perspectiva psíquica e analitica do cão, existe um teste que é feito nos primeiros meses de vida e que serve para medir o possível carácter futuro do cão. A este teste dá-se o nome de **Teste de Cambell**, que tem como principal objectivo saber qual é o comportamento do cão, ao nível da atratividade social, entre o cão e o dono. Este método é usado por criadores para saber se o cão se irá adaptar ao novo dono, e se existe alguma irregularidade comportamental do cão de negação, tal como virar as costas, rosnar ou tentar morder. Os resultados tẽm como objectivo principal saber se o cão é Dominante Agressivo, Dominante não-agressivo, Equilibrado, Submisso ou independente. <br><br>
+Na perspectiva psíquica e analitica do cão, existe um teste que é feito nos primeiros meses de vida e que serve para medir o possível carácter futuro do cão. A este teste dá-se o nome de **Teste de Cambell**, que tem como principal objectivo saber qual é o comportamento do cão, ao nível da atratividade social, entre o cão e o dono. Este método é usado por criadores para saber se o cão se irá adaptar ao novo dono, e se existe alguma irregularidade comportamental do cão de negação, tal como virar as costas, rosnar ou tentar morder. Os resultados tẽm como objectivo principal saber se o cão é Dominante Agressivo, Dominante não-agressivo, Equilibrado, Submisso ou independente. 
+
+</div>
+
+<div style="text-align:justify">
 
 Também existe um método de análise, que tem como intuíto saber quais as aptidões do cão para funções especificas, tal como saber se está preparado para actividades desportivas, ou se o cão está mais preparado para funções de trabalho. A esta técnica de análise dá-se o nome de **Liakhoff** e tem como principal objectivo medir a agressividade, a submissão, a vontade de agradar, a capacidade de adaptação, a concentração e a capacidade de abstração, como também saber se o cão sofre de algum medo. 
 
+</div>
+
+<div style="text-align:justify">
+
 Ainda na fase Juvenil, pode-se tentar identificar problemas comportamentais, que poderão ser importantes observar, para evitar problemas futuros. Salvo haver certas raças que se demonstram agressivas desde tenra idade, a maioria dos cães saudáveis não se apresentam com essas características, tal como a agressividade com pessoas novas, o medo de outros cães ou de pessoas, a ansiedade de separação e a hiperatividade, que pode ser o resultado do ambiente em que vivem ou até o resultado das experiencias dos primeiros meses de vida. 
+</div>
+
+<div style="text-align:justify">
 
 **Ivan Pavlov** é o pioneiro do condicionamento clássico, que tem como principal objectivo criar mudanças comportamentais num cão, a partir da associação de estímulos. Estes estímulos podem ser naturais ou artificiais. A observação de comportamentos que tinham origem inata, tal como salivar ao apresentar comida, levou ao investigador a tentar manipular o comportamento do cão, introduzindo uma nova variavel artificial, tal como um som externo, tal como o de uma campainha. Aos estímulos naturais tal como a comida existe a resposta de salivar e ao estímulo artificial depois de ser associado à comida, existe também a salivação sem apresentar a comida. 
 
+</div>
+
+<div style="text-align:justify">
+
 Assim, este fisiologista descobre que é possível manipular e educar os cães a terem comportamentos que não teriam de forma natural, usando estímulos externos que podem ser positivos ou negativos e que irão ser úteis na definição comportamental destes cães. 
 
+</div>
+
+<div style="text-align:justify">
+
 A estes estímulos, dá-se o nome de "Reforço Positivo" e "Reforço Negativo" e servem para aumentar e melhorar um comportamento desejável, ou serve para diminuir e "apagar" um comportamento indesejável, respectivamente.
+</div>
+
+<div style="text-align:justify">
 
 É com base nestas técnicas educativas, que o treinador deve definir os comportamentos desejados e tentar impedir que os comportamentos indesejados aconteçam. Também por esta razão e por causa das variações educativas que os cães foram tendo ao longo do tempo, definiu-se limites e proibições no uso de mecanismos ou ferramentas na educação dos canídeos. 
 
 </div>
 
-### <p style="text-align:center">As características inatas</p>
+<h3 style="text-align:center">As características inatas</h3>
 
 <div style="text-align:justify">
 
@@ -110,7 +147,7 @@ Como se poderá ler nos diferentes grupos de cães que foram esquematizados, cad
 
 </div>
 
-## <p style="text-align:center">Legislação</p>
+<h2 style="text-align:center">Legislação</h2>
 
 <div style="text-align:justify">
 
@@ -127,7 +164,7 @@ Como tal, pode-se dizer que um cão que já **mordeu**, é ==potencialmente peri
 
 </div>
 
-### Linguagem Técnica da Psicologia e dos Estímulos Básicos
+<h3> Linguagem Técnica da Psicologia e dos Estímulos Básicos</h3>
 
 <div style="text-align:justify">
 
