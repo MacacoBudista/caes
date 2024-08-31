@@ -70,7 +70,7 @@ Sejam galgos de pelo comprido e franjeado, de pelo cerdoso ou de pelo curto, est
 
 <h2 style="text-align:center">A Educação</h2>
 
-Todos as técnicas educativas, poderão usar métodos e formas de prémio ou de punição para atingir objectivos. É importante que a punição seja somente a negação de um prémio ou a negação de uma brincadeira e evitar ao máximo que a punição seja agressiva ou violenta. Existe um lado na psicologia animal que é usada nos cães e que também é usada em pessoas. Estas técnicas servem para avaliar comportamentos e treinar os seres a terem os comportamentos que desejamos ver neles. A psicologia é básica, mas serve perfeitamente para explicar ora comportamentos de cães ora até de pessoas. Por razões de adaptação histórica, muitas pessoas nos últimos séculos foram violentadas para aprender, sabendo que os animais também. Só recentemente é que nasceu uma luta contra o uso de violência para educar e como tal, temos na actualidade uma legislação que quer garantir que os seres humanos têm educações não violentas e que os cães e outros animais, também não tenham de passar por experiências violentas com o âmbito de educar comportamentos. 
+**Nota Pessoal**: Todos as técnicas educativas, poderão usar métodos e formas de prémio ou de punição para atingir objectivos. É importante que a punição seja somente a negação de um prémio ou a negação de uma brincadeira e evitar ao máximo que a punição seja agressiva ou violenta. Existe um lado na psicologia animal que é usada nos cães e que também é usada em pessoas. Estas técnicas servem para avaliar comportamentos e treinar os seres a terem os comportamentos que desejamos ver neles. A psicologia é básica, mas serve perfeitamente para explicar ora comportamentos de cães ora até de pessoas. Por razões de adaptação histórica, muitas pessoas nos últimos séculos foram violentadas para aprender, sabendo que os animais também. Só recentemente é que nasceu uma luta contra o uso de violência para educar e como tal, temos na actualidade uma legislação que quer garantir que os seres humanos têm educações não violentas e que os cães e outros animais, também não tenham de passar por experiências violentas com o âmbito de educar comportamentos. 
 
 <h3 style="text-align:center">Introdução à Psicologia Comportamental</h3>
 
@@ -84,7 +84,7 @@ Ainda na fase Juvenil, pode-se tentar identificar problemas comportamentais, que
 
 Assim, este fisiologista descobre que é possível manipular e educar os cães a terem comportamentos que não teriam de forma natural, usando estímulos externos que podem ser positivos ou negativos e que irão ser úteis na definição comportamental destes cães. 
 
-A estes estímulos, dá-se o nome de "Reforço Positivo" e "Reforço Negativo" e servem para aumentar e melhorar um comportamento desejável, ou serve para diminuir e "apagar" um comportamento indesejável, respectivamente.
+A estes estímulos, dá-se o nome de `Reforço Positivo` e `Reforço Negativo` e servem para aumentar e melhorar um comportamento desejável, ou serve para diminuir e "apagar" um comportamento indesejável, respectivamente.
 
 É com base nestas técnicas educativas, que o treinador deve definir os comportamentos desejados e tentar impedir que os comportamentos indesejados aconteçam. Também por esta razão e por causa das variações educativas que os cães foram tendo ao longo do tempo, definiu-se limites e proibições no uso de mecanismos ou ferramentas na educação dos canídeos. 
 
@@ -105,35 +105,23 @@ Como se poderá ler nos diferentes grupos de cães que foram esquematizados, cad
 Em referência ao último [artigo do blog](https://criticasempiedade.blogspot.com/2024/08/bica-no-bica-5-falta-de.html) como crítica aos serviços da Nubika: 
 Como tal, pode-se dizer que um cão que já **mordeu**, é **potencialmente perigoso**, pois pode voltar a morder. Sendo que ao ser **potencialmente perigo**, implicitamente é um cão **perigoso**. Este é um dos problemas que a Nubika, deverá ter o cuidado de tentar evitar, pois são questões lógicas que levam ao erro interpretativo, sendo que a diferença entre ambas as definições, está relacionada com o comportamento do animal e não às características que os cães considerados **potencialmente perigosos** apresentam como ``potenciais`` ou ``possíveis`` comportamentos pré-definidos. 
 
-
 <h2 style="text-align:center">Etapas de Desenvolvimento</h2>
 
-
-
-A pré-natal, refere-se ao periodo antes do nascimento, a neonatal aos primeiros 14 dias, nos quais o cão ainda não é capaz de ver o mundo à sua volta, a etapa de transição que acontece entre os primeiros 13 a 21 dias, sendo que já são capazes de ver o mundo à sua volta e surgem os primeiros dentes de leite e a capacidade de distinguir diferentes sons, em seguida a etapa de socialização, sendo que é vital que haja a socialização com outros cães, e com pessoas em diferentes ambientes. A estapa Juvenil acontece entre as 12 semanas e os 6 meses ou mais, tornando-se mais independente e tal como todos os adolescentes humanos, podem apresentar-se com demonstrações de falta de obediência, mais dispersão de atenção, maior distanciamento como também poderá demonstrar-se com falta de atenção. Finalmente inicia-se a etapa adulta, entre os primeiros 7 anos e em seguida a etapa sénior a partir dos 7 anos de vida, periodo este que tal como nas pessoas, aparecem as dificuldades motoras e irregularidades de saúde física e mental. 
+A **Etapa Pré-natal**, refere-se ao periodo antes do nascimento, a neonatal aos <ins>primeiros 14 dias</ins>, nos quais o cão ainda não é capaz de ver o mundo à sua volta, a **Etapa de Transição** que acontece <ins>entre os primeiros 13 a 21 dias</ins>, sendo que já são capazes de ver o mundo à sua volta e surgem os primeiros dentes de leite e a capacidade de distinguir diferentes sons, em seguida a **Etapa de Socialização**, sendo que é vital que haja a socialização com outros cães, e com pessoas em diferentes ambientes. A **Etapa Juvenil** acontece <ins>entre as 12 semanas e os 6 meses ou mais</ins>, tornando-se mais independente e tal como todos os adolescentes humanos, podem apresentar-se com demonstrações de falta de obediência, mais dispersão de atenção, maior distanciamento como também poderá demonstrar-se com falta de atenção. Finalmente inicia-se a **Etapa Adulta**, <ins>entre os primeiros 7 anos</ins> e em seguida a **Etapa Sénior** a partir dos 7 anos de vida, periodo este que tal como nas pessoas, aparecem as dificuldades motoras e irregularidades de saúde física e mental. 
 
 <h2 style="text-align:center">Introdução à Comunicação Canina</h2>
 
-
-
-Todos os mamiferos, quando nascem têm várias formas de falar, usando sons ou expressões corporais que podem indicar, vontades ou formas de estar. Dependendo do contexto diferentes sons podem ser produzidos, que definem também os estados emocionais. Turid Rugaas escreve o livro "Calming Signals" para descrever os diferentes sons emitidos pelos cães para evitar conflitos entre cães, o que permitiu conhecer os diferentes sinais emocionais que eram vocalizados, como também diferentes expressões corporais tal como com a cauda e as orelhas. 
+Todos os mamiferos, quando nascem têm várias formas de falar, usando sons ou expressões corporais que podem indicar, vontades ou formas de estar. Dependendo do contexto diferentes sons podem ser produzidos, que definem também os estados emocionais. [Turid Rugaas](https://en.wikipedia.org/wiki/Turid_Rugaas) escreve o livro [Calming Signals](https://www.dogwise.com/on-talking-terms-with-dogs-calming-signals-2nd-edition/) para descrever os diferentes sons emitidos pelos cães para evitar conflitos entre cães, o que permitiu conhecer os diferentes sinais emocionais que eram vocalizados, como também diferentes expressões corporais tal como com a cauda e as orelhas. 
 
 <h3 style="text-align:center">Introdução à Linguagem Corporal</h3>
 
 Considera-se que os cães demonstram comportamentos que têm como objectivo comunicar o seu estado emocional e respectivamente, fazer um pré-aviso de qualquer irregularidade ou situação que está a lidar. Estes sinais podem referir um estado de calma, stress, desconfiança, etc. 
 
-<h3 style="text-align:center">Linguagem sonora Canina</h3>
-
-
+<h3 style="text-align:center">Introdução à Linguagem Sonora Canina</h3>
 
 Dependendo do contexto, existem diferentes momentos em que o cão Ladra. Os restantes sons também poderão acontecer em diferentes momentos, dependendo do contexto, sendo que gemer, rosnar, uivar e ganir, são facilmente associados a queixar-se de uma dor constante, ameaça ou perigo, solidão e queixar-se de um golpe ou de uma queda, respectivamente. 
 
-
-
-
-<h3> Linguagem Técnica da Psicologia e dos Estímulos Básicos</h3>
-
-
+<h3 style="text-align:center"> Linguagem Técnica da Psicologia e dos Estímulos Básicos</h3>
 
 > O condicionamento clássico: 
 
