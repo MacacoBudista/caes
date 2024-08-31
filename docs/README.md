@@ -230,16 +230,16 @@ O abanar de cauda nem sempre significa que o cão está contente! Alguns estudos
 
 <h3 style="text-align:center">Avaliação de Comportamentos Indesejáveis</h3>
 
-1. Identificar possíveis comportamentos indesejaveis. 
-2. identificar possíveis fontes desses comportamentos indesejáveis. 
-3. O responsável poderá por falta de conhecimento, aumentar o ciclo dos comportamentos indesejáveis. 
-4. Saber o histórico do cão. 
-5. Ambiente e rotina diária.
-6. Relacionamentos. 
-7. Reações a pessoas e animais
-8. Treino. 
-9. Resposta à manipulação
-10. Esperiências anteriores
+    1. Identificar possíveis comportamentos indesejaveis. 
+    2. identificar possíveis fontes desses comportamentos indesejáveis. 
+    3. A falta de conhecimento do dono.
+    4. Saber o histórico do cão. 
+    5. Ambiente e rotina diária.
+    6. Relacionamentos. 
+    7. Reações a pessoas e animais
+    8. Treino. 
+    9. Resposta à manipulação
+    10. Experiências anteriores
 
 <h3 style="text-align:center">Identificação de factores Bióticos</h3>
 
@@ -273,43 +273,88 @@ O abanar de cauda nem sempre significa que o cão está contente! Alguns estudos
 
 <h4 style="text-align:center">Sequência de Agressividade</h4>
 
-1. **Sinais de Ansiedade** 
-2. **Ladrar, pelo Eriçado**
-3. **Rosnar**
-4. **Expor Dentes**
-5. **Morder o Ar**
-6. **Moder** 
+    1. Sinais de Ansiedade 
+    2. Ladrar, pelo Eriçado
+    3. Rosnar
+    4. Expor Dentes
+    5. Morder o Ar
+    6. Morder 
 
 <h4 style="text-align:center">Medidas a tomar para diminuir a Agressividade</h4>
 
-1. Mudar de ares.
-2. Conviver com outras pessoas
-3. Passear mais
-4. Correr mais
-5. Dominar os exercícios básicos
-6. Conviver com outros animais
+    1. Mudar de ares.
+    2. Conviver com outras pessoas
+    3. Passear mais
+    4. Correr mais
+    5. Dominar os exercícios básicos
+    6. Conviver com outros animais
 
 <h4 style="text-align:center">Sintomas que provocam Comportamentos Indesejáveis</h4>
 
-1. Miccção e Defecação
-2. Ansiedade
-3. Ladrar Compulsivamente
-4. Destruir objectos
-5. Problemas de Socialização 
+    1. Miccção e Defecação
+    2. Ansiedade
+    3. Ladrar Compulsivamente
+    4. Destruir objectos
+    5. Problemas de Socialização 
 
 <h4 style="text-align:center">Comportamentos Agressivos em Patologias</h4>
 
-1. Dor
-2. Processos Infecciosos
-3. Alterações do Cio da Cadela
-4. Perturbações do Sistema Nervoso
+    1. Dor
+    2. Processos Infecciosos
+    3. Alterações do Cio da Cadela
+    4. Perturbações do Sistema Nervoso
 
 <h4 style="text-align:center">Doenças Neurológicas</h4>
 
-1. Epilépsia
-2. Hérnias discais
-3. Tumores
-4. Síndrome de Shaker
-5. Disfunção cognitiva
-6. Patologias medulares
+    1. Epilépsia
+    2. Hérnias discais
+    3. Tumores
+    4. Síndrome de Shaker
+    5. Disfunção cognitiva
+    6. Patologias medulares
+
+<h4 style="text-align:center">Doenças</h4>
+
+**Doenças Virais**: 
+    
+    1. Cinomose Canina (Esgana)
+    2. Hepatite Infeciosa Canina
+    3. Parvovirose Canina
+    4. Coronavírus Canino
+    5. Traqueobronquite Infeciosa
+    6. Raiva
+    7. Papilomatose
+
+**Doenças Bacterianas**: 
+
+    1. Leptospirose
+    2. Brucelose
+    3. Tétano
+    4. Estomatite Gangrenosa
+
+**Infeções Parasitárias**: 
+
+    1. Ascaridíase
+    2. Dipylidium Caninum
+    3. Equinococose
+    4. Dirofilariose
+    5. Leishmaniose
+    6. Piroplasmose
+    7. Sarna
+
+**Infeções Fúngicas**:
+
+    1. Dermatofitose
+    2. Malassezia
+
+**Doenças não Infeciosas**:
+
+    1. Síndrome de Cushing
+    2. Diabetes
+    3. Hipotiroidismo
+
+**Doenças do Sistema Músculo-Esquelético**:
+
+    1. Displasia da Anca
+    2. Displasia do Cotovelo
 
