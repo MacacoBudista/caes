@@ -1,5 +1,3 @@
-<h1 style="text-align:center">Curso de Treinador de Cães</h1>
-
 1. [Introdução](./intro/README.md): A origem dos cães. 
 2. Os [Grupos](./grupos/README.md) de raças de cães reconhecidas.
 3. O [Corpo](./corpo/README.md) do cão.
