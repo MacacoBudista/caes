@@ -230,16 +230,16 @@ O abanar de cauda nem sempre significa que o cão está contente! Alguns estudos
 
 <h3 style="text-align:center">Avaliação de Comportamentos Indesejáveis</h3>
 
-    1. Identificar possíveis comportamentos indesejaveis. 
-    2. identificar possíveis fontes desses comportamentos indesejáveis. 
-    3. A falta de conhecimento do dono.
-    4. Saber o histórico do cão. 
-    5. Ambiente e rotina diária.
-    6. Relacionamentos. 
-    7. Reações a pessoas e animais
-    8. Treino. 
-    9. Resposta à manipulação
-    10. Experiências anteriores
+1. Identificar possíveis comportamentos indesejaveis. 
+2. identificar possíveis fontes desses comportamentos indesejáveis. 
+3. A falta de conhecimento do dono.
+4. Saber o histórico do cão. 
+5. Ambiente e rotina diária.
+6. Relacionamentos. 
+7. Reações a pessoas e animais
+8. Treino. 
+9. Resposta à manipulação
+10. Experiências anteriores
 
 <h3 style="text-align:center">Identificação de factores Bióticos</h3>
 
@@ -271,7 +271,7 @@ O abanar de cauda nem sempre significa que o cão está contente! Alguns estudos
 5. **Território**: Falemos das pessoas :D 
 6. **Intrasexual**: Vários cães para uma cadela. 
 
-<h4 style="text-align:center">Sequência de Agressividade</h4>
+<h4 style="text-align:center">Sequência do aumento da Agressividade</h4>
 
     1. Sinais de Ansiedade 
     2. Ladrar, pelo Eriçado
@@ -303,8 +303,11 @@ O abanar de cauda nem sempre significa que o cão está contente! Alguns estudos
     2. Processos Infecciosos
     3. Alterações do Cio da Cadela
     4. Perturbações do Sistema Nervoso
+    
+<h2 style="text-align:center">Doenças</h2>
 
-<h4 style="text-align:center">Doenças Neurológicas</h4>
+
+**Doenças Neurológicas**:
 
     1. Epilépsia
     2. Hérnias discais
@@ -312,8 +315,6 @@ O abanar de cauda nem sempre significa que o cão está contente! Alguns estudos
     4. Síndrome de Shaker
     5. Disfunção cognitiva
     6. Patologias medulares
-
-<h4 style="text-align:center">Doenças</h4>
 
 **Doenças Virais**: 
     
@@ -332,6 +333,19 @@ O abanar de cauda nem sempre significa que o cão está contente! Alguns estudos
     3. Tétano
     4. Estomatite Gangrenosa
 
+**Doenças não Infeciosas**:
+
+    1. Síndrome de Cushing
+    2. Diabetes
+    3. Hipotiroidismo
+
+**Doenças do Sistema Músculo-Esquelético**:
+
+    1. Displasia da Anca
+    2. Displasia do Cotovelo
+
+<h3 style="text-align:center">Infeções</h3>
+
 **Infeções Parasitárias**: 
 
     1. Ascaridíase
@@ -346,15 +360,4 @@ O abanar de cauda nem sempre significa que o cão está contente! Alguns estudos
 
     1. Dermatofitose
     2. Malassezia
-
-**Doenças não Infeciosas**:
-
-    1. Síndrome de Cushing
-    2. Diabetes
-    3. Hipotiroidismo
-
-**Doenças do Sistema Músculo-Esquelético**:
-
-    1. Displasia da Anca
-    2. Displasia do Cotovelo
 
