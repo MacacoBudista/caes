@@ -12,16 +12,6 @@ O instrumento de treino que aponta para uma recompensa, pode ser comida tal como
 
 Existe ainda a definição de punição que também é dual. Considera-se que a **punição negativa** tem como objectivo a diminuição de um comportamento repetitivo, como também considera-se que a **punição positiva** que tem o mesmo objectivo e que é apresentado como um estímulo aversivo sempre que existe uma resposta comportamental do cão. 
 
-<h4 style="text-align:center">Métodos para eliminar Comportamentos Indesejáveis</h4>
-
-1. **Dessensibilização Sistemática Progressiva**: Consiste em expor um cão ao estímulo que desenvadeia o comportamento indesejável, sem que o comportamento indesejável ocorra. 
-2. **Contra-Condicionamento**: É a capacidade de associar um comportamento indesejável a outro comportamento desejável.  
-3. **Habituação**: Tal como o nome indica, é um processo repetitivo que espera que o "estranho" se "entranhe". 
-4. **Imersão**: Consiste em expor um cão ao estímulo que lhe cria um comportamento aversivo / agressivo, até que o comportamento desapareça. Uma espécie de "habituação" com diferentes intenções. Técnica essa que não é recomendada, pois tendencialmente irá aumentar esse comportamento.
-5. **Extinção**: Consiste em eliminar o que é excessivamente agrável para o cão e que lhe provoca positividade excessiva. 
-
-**Nota Pessoal**: Parece tudo a mesma coisa. É sempre uma pespectiva de manipulação, onde a associação de memórias sejam substituídas por outras, para que as novas, ganhem importância sobre as anteriores. 
-
 <h4 style="text-align:center">Introdução à Psicologia Comportamental</h4>
 
 Na perspectiva psíquica e analitica do cão, existe um teste que é feito nos primeiros meses de vida e que serve para medir o possível carácter futuro do cão. A este teste dá-se o nome de **Teste de Cambell**, que tem como principal objectivo saber qual é o comportamento do cão, ao nível da atratividade social, entre o cão e o dono. Este método é usado por criadores para saber se o cão se irá adaptar ao novo dono, e se existe alguma irregularidade comportamental do cão de negação, tal como virar as costas, rosnar ou tentar morder. Os resultados tẽm como objectivo principal saber se o cão é Dominante Agressivo, Dominante não-agressivo, Equilibrado, Submisso ou independente. 
