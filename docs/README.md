@@ -9,3 +9,4 @@
 7. Saber [Avaliar](./avalia/README.md) as condição do cão.
 8. Comportamentos [Agressivos](./agressividade/README.md).
 9. Como identificar e lidar com [Doenças](./doencas/README.md).
+10. Relativo às técnicas de [Treino](./treino/README.md)
