@@ -8,3 +8,5 @@
 5. **Extinção**: Consiste em eliminar o que é excessivamente agrável para o cão e que lhe provoca positividade excessiva. 
 
 **Nota Pessoal**: Parece tudo a mesma coisa. É sempre uma pespectiva de manipulação, onde a associação de memórias sejam substituídas por outras, para que as novas, ganhem importância sobre as anteriores. 
+
+Clicar [aqui](../README.md) para voltar para a página principal
