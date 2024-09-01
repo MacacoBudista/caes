@@ -1,6 +1,6 @@
-1. [Introdução](./intro/README.md): A origem dos cães. 
-2. [Os Grupos de Cães](./grupos/README.md) de raças de cães reconhecidas.
-3. [O Corpo do Cão](./corpo/README.md) do cão.
+1. [Introdução - A origem dos Cães](./intro/README.md) 
+2. [Os Grupos de Raças de  Cães Reconhecidas](./grupos/README.md)
+3. [O Corpo do Cão](./corpo/README.md)
 4. [O processo da Educação](./educa/README.md).
 5. [Conceitos Básicos de Psicologia Comportamental](./psicologia/README.md).
 6. [A Comunicação Canina](./comunica/README.md).
