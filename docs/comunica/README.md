@@ -1,12 +1,12 @@
 <h2 style="text-align:center">Introdução à Comunicação</h2>
 
-<p style="text-align:justify">Todos os mamiferos, quando nascem têm várias formas de falar, usando sons ou expressões corporais que podem indicar, vontades ou formas de estar. Dependendo do contexto diferentes sons podem ser produzidos, que definem também os estados emocionais. [Turid Rugaas](https://en.wikipedia.org/wiki/Turid_Rugaas) escreve o livro [Calming Signals](https://www.dogwise.com/on-talking-terms-with-dogs-calming-signals-2nd-edition/) para descrever os diferentes sons emitidos pelos cães para evitar conflitos entre cães, o que permitiu conhecer os diferentes sinais emocionais que eram vocalizados, como também diferentes expressões corporais tal como com a cauda e as orelhas. </p>
+Todos os mamiferos, quando nascem têm várias formas de falar, usando sons ou expressões corporais que podem indicar, vontades ou formas de estar. Dependendo do contexto diferentes sons podem ser produzidos, que definem também os estados emocionais. [Turid Rugaas](https://en.wikipedia.org/wiki/Turid_Rugaas) escreve o livro [Calming Signals](https://www.dogwise.com/on-talking-terms-with-dogs-calming-signals-2nd-edition/) para descrever os diferentes sons emitidos pelos cães para evitar conflitos entre cães, o que permitiu conhecer os diferentes sinais emocionais que eram vocalizados, como também diferentes expressões corporais tal como com a cauda e as orelhas. 
 
 <h3 style="text-align:center">Introdução à Linguagem Corporal</h3>
-<p style="text-align:justify">Considera-se que os cães demonstram comportamentos que têm como objectivo comunicar o seu estado emocional e respectivamente, fazer um pré-aviso de qualquer irregularidade ou situação que está a lidar. Estes sinais podem referir um estado de calma, stress, desconfiança, etc. </p>
+Considera-se que os cães demonstram comportamentos que têm como objectivo comunicar o seu estado emocional e respectivamente, fazer um pré-aviso de qualquer irregularidade ou situação que está a lidar. Estes sinais podem referir um estado de calma, stress, desconfiança, etc. 
 
 <h3 style="text-align:center">Introdução à Linguagem Sonora Canina</h3>
-<p style="text-align:justify">Dependendo do contexto, existem diferentes momentos em que o cão Ladra. Os restantes sons também poderão acontecer em diferentes momentos, dependendo do contexto, sendo que gemer, rosnar, uivar e ganir, são facilmente associados a queixar-se de uma dor constante, ameaça ou perigo, solidão e queixar-se de um golpe ou de uma queda, respectivamente. </p>
+Dependendo do contexto, existem diferentes momentos em que o cão Ladra. Os restantes sons também poderão acontecer em diferentes momentos, dependendo do contexto, sendo que gemer, rosnar, uivar e ganir, são facilmente associados a queixar-se de uma dor constante, ameaça ou perigo, solidão e queixar-se de um golpe ou de uma queda, respectivamente. 
 
 <h3 style="text-align:center">A Linguagem Corporal Canina</h3> 
 
