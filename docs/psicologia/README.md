@@ -1,6 +1,7 @@
 <h3 style="text-align:center"> Linguagem Técnica da Psicologia e dos Estímulos Básicos</h3>
 
 > O condicionamento clássico: 
+<p style="text-align:justify">
 
 Refere-se à condição que permite ensinar o cão ou pessoa a relacionar dois estímulos que não tinham qualquer relação antes da aprendizagem.
 
@@ -30,6 +31,6 @@ A estes estímulos, dá-se o nome de `Reforço Positivo` e `Reforço Negativo` e
 
 <h3 style="text-align:center">As características inatas</h3>
 
-Como se poderá ler nos diferentes grupos de cães que foram esquematizados, cada grupo apresenta diferentes características inatas que estão mais desenvolvidas, na comparação de outros grupos. Mesmo que todos os cães tenham características fisiológicas semelhantes ou até iguais, ao nível comportamental e temperamental, as qualidades emocionais de cada cão, permitem que cada grupo de cães, possa ter diferentes funções com base nas suas características físicas e temperamentais. 
+Como se poderá ler nos diferentes grupos de cães que foram esquematizados, cada grupo apresenta diferentes características inatas que estão mais desenvolvidas, na comparação de outros grupos. Mesmo que todos os cães tenham características fisiológicas semelhantes ou até iguais, ao nível comportamental e temperamental, as qualidades emocionais de cada cão, permitem que cada grupo de cães, possa ter diferentes funções com base nas suas características físicas e temperamentais. </p>
 
 Clicar [aqui](../README.md) para voltar para a página principal

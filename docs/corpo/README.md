@@ -1,3 +1,6 @@
+<h2 style="text-align:center"> Qualidades Inatas </h2>
+Considera-se que as diferentes raças caninas desenvolveram qualidades especificas, umas que são mais predatórias e outras mais dóceis e sociais, sabendo que, são as experiências de cada animal, que potenciam ou diminuem as irregularidades comportamentais. As técnicas educativas é que serão as responsáveis pelo comportamento futuro dos animais em questão. 
+
 <h2 style="text-align:center">Etapas de Desenvolvimento</h2>
 
 <p style="text-align:justify">
