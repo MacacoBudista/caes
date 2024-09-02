@@ -10,6 +10,7 @@
 10. [Noções Básicas de Técnicas de Treino](./treino/README.md)
 11. [A Legislação Portuguesa](./lei/README.md)
 12. [Desportos Caninos](./desporto/README.md)
+13. [Material para o cão e o treinador](./material/README.md)
 
 Esta página aceita contribuições para melhoramento do conteúdo. Se quiser fazer alterações ou acrescentar conteúdo, abra uma [issue](https://github.com/MacacoBudista/caes/issues) para referir as melhorias e em seguida faça um [pull-request](https://github.com/MacacoBudista/caes) já com as alterações feitas, sendo que também poderá [discutir](https://github.com/MacacoBudista/caes/discussions) conteúdos como se fosse um fórum antes de fazer qualquer alteração, abrindo novos tópicos a ter em conta. 
 

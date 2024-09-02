@@ -3,27 +3,23 @@
 
 **Doenças Neurológicas**:
 
-    1. Epilépsia
+    1. Epilépsia 
 
 Em caso de curiosidade, leia mais sobre a [Epilépsia](https://pt.wikipedia.org/wiki/Epilepsia)
 
-    2. Hérnias discais
-
-Em caso de curiosidade, leia mais sobre [Hérnias Discais](https://pt.wikipedia.org/wiki/H%C3%A9rnia_de_disco)
-
-    3. Tumores
+    2. Tumores
 
 Em caso de curisiosidade, leia mais sobre [Tumores](https://pt.wikipedia.org/wiki/Neoplasia)
 
-    4. Síndrome de Shaker
+    3. Síndrome de Shaker
 
 Em caso de curiosidade, leia mais sobre o [Sindroma de Shaker](https://westiefoundation.org/files/galleries/white-shaker-ebook.pdf)
 
-    5. Disfunção cognitiva
+    4. Disfunção cognitiva
 
 Em caso de curiosidade, leia mais sobre a [Cognição](https://pt.wikipedia.org/wiki/Cogni%C3%A7%C3%A3o_social)
 
-    6. Patologias medulares
+    5. Patologias medulares
 
 Em caso de curiosidade, leia mais sobre a [Medula Espinhal](https://pt.wikipedia.org/wiki/Medula_espinhal)
 
@@ -98,6 +94,10 @@ Em caso de curiosidade, leia mais sobre a [Displasia da Anca](https://pt.wikiped
     2. Displasia do Cotovelo
 
 Em caso de curiosidade, leia mais sobre a [Displasia do Cotovelo](https://pt.wikipedia.org/wiki/Displasia_de_cotovelo)
+
+    3. Hérnias discais
+
+Em caso de curiosidade, leia mais sobre [Hérnias Discais](https://pt.wikipedia.org/wiki/H%C3%A9rnia_de_disco)
 
 <h3 style="text-align:center">Infeções</h3>
 
