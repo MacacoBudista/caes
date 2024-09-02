@@ -11,12 +11,5 @@
 11. [A Legislação Portuguesa](./lei/README.md)
 12. [Desportos Caninos](./desporto/README.md)
 
-
-
-
-<footer>
-
 Esta página aceita contribuições para melhorar o seu conteúdo.
 Se quiser fazer alterações ou acrescentar conteúdo, abra um [pull-request](https://github.com/MacacoBudista/caes)
-
-</footer>
