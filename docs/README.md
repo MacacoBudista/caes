@@ -15,10 +15,8 @@
 
 
 <footer>
-<p> Esta página aceita contribuições para melhorar o seu conteúdo.
 
+Esta página aceita contribuições para melhorar o seu conteúdo.
 Se quiser fazer alterações ou acrescentar conteúdo, abra um [pull-request](https://github.com/MacacoBudista/caes)
-
-</p>
 
 </footer>

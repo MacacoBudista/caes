@@ -15,8 +15,35 @@ O instrumento de treino que aponta para uma recompensa, pode ser comida tal como
 
 Existe ainda a definição de <ins>punição</ins> que também é dual. Considera-se que a `punição negativa` tem como objectivo a diminuição de um comportamento repetitivo, como também considera-se que a `punição positiva` que tem o mesmo objectivo e que é apresentado como um estímulo aversivo sempre que existe uma resposta comportamental do cão. 
 
-<h4 style="text-align:center">Introdução à Psicologia Comportamental</h4>
+> Condicionamento Operante ou Instrumental
 
+**Nota Pessoal**: Na mesma perspectiva descrita ora no meu [endereço oficial](https://wiki.odicforcesounds.com), ora numa [publicação](https://criticasempiedade.blogspot.com/2024/08/justica-desafio-mundial-solucao-mundial.html) do blog, a técnica de "Reforço" ou de "Prémio" é uma das melhores abordagens para motivar à participação. Tal como todos os sistemas de rating, pode-se avaliar propriedades que podem ser positivas e negativas, sendo que é a partir desse mecanismo de avaliação que existe a função do estímulo. Se for um rate positivo a pessoa fica motivada e se for um rate negativo, a pessoa fica incomodada. 
+
+Na perspectiva analítica do comportamento do cão, atribuiu-se a seguinte tabela: 
+
+| Reação | Consequência | Consequência | 
+| --- | --- | --- | 
+| --- | Estímulo de Reforço **ER** | Estímulo Aversivo **ES** | 
+| --- | Reforço Desejável | Reforço Indesejável |
+| --- | Reforço Positivo | Reforço Negativo |  
+| Reação Positiva | Aumento do comportamento | Redução do Comportamento | 
+| Reação Negativa | Redução do comportamento | Aumento do Comportamento | 
+
+- Estímulo Condicionado ou discriminativo (EC)
+- Resposta ou Recompensa (R)
+- Resposta Incondicionada (RI)
+- Resposta Condicionada (RC)
+
+> Tipos de Condicionamentos
+
+1. Recompensa
+2. Punição
+    - Punição Negativa
+    - Punição Positiva
+3. Omissão
+4. Fuga 
+
+<h4 style="text-align:center">Introdução à Psicologia Comportamental</h4>
 
 Na perspectiva psíquica e analitica do cão, existe um teste que é feito nos primeiros meses de vida e que serve para medir o possível carácter futuro do cão. A este teste dá-se o nome de [Teste de Campbell](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2327247/), que tem como principal objectivo saber qual é o comportamento do cão, ao nível da atratividade social, entre o cão e o dono. Este método é usado por criadores para saber se o cão se irá adaptar ao novo dono, e se existe alguma irregularidade comportamental do cão de negação, tal como virar as costas, rosnar ou tentar morder. Os resultados tẽm como objectivo principal saber se o cão é Dominante Agressivo, Dominante não-agressivo, Equilibrado, Submisso ou independente. 
 
@@ -32,23 +59,6 @@ Assim, este fisiologista descobre que é possível manipular e educar os cães a
 
 A estes estímulos, dá-se o nome de `Reforço Positivo` e `Reforço Negativo` e servem para aumentar e melhorar um comportamento desejável, ou serve para diminuir e "apagar" um comportamento indesejável, respectivamente.
 
-É com base nestas técnicas educativas, que o treinador deve definir os comportamentos desejados e tentar impedir que os comportamentos indesejados aconteçam. Também por esta razão e por causa das variações educativas que os cães foram tendo ao longo do tempo, definiu-se limites e proibições no uso de mecanismos ou ferramentas na educação dos canídeos. 
-
-<h4 style="text-align:center">Identificação de Comportamentos Indesejáveis</h4>
-
-1. **Agressividade**: Perigo para famílias
-2. **Medo**: De pessoas, objectos ou outros animais
-3. **Ansiedade de Separação**: "Chora a Vida"
-4. **Hiperatividade**: "Muita energia para dar e vender"
-
-<h4 style="text-align:center">Métodos Teóricos para eliminar Comportamentos Indesejáveis</h4>
-
-1. **Dessensibilização Sistemática Progressiva**: Consiste em expor um cão ao estímulo que desenvadeia o comportamento indesejável, sem que o comportamento indesejável ocorra. 
-2. **Contra-Condicionamento**: É a capacidade de associar um comportamento indesejável a outro comportamento desejável.  
-3. **Habituação**: Tal como o nome indica, é um processo repetitivo que espera que o "estranho" se "entranhe". 
-4. **Imersão**: Consiste em expor um cão ao estímulo que lhe cria um comportamento aversivo / agressivo, até que o comportamento desapareça. Uma espécie de "habituação" com diferentes intenções. Técnica essa que não é recomendada, pois tendencialmente irá aumentar esse comportamento.
-5. **Extinção**: Consiste em eliminar o que é excessivamente agrável para o cão e que lhe provoca positividade excessiva. 
-
-**Nota Pessoal**: Parece tudo a mesma coisa. É sempre uma pespectiva de manipulação, onde a associação de memórias sejam substituídas por outras, para que as novas, ganhem importância sobre as anteriores. 
+É com base nestas técnicas educativas, que o treinador deve definir os comportamentos desejados e tentar impedir que os comportamentos indesejados aconteçam. Também por esta razão e por causa das variações educativas que os cães foram tendo ao longo do tempo, [definiu-se limites e proibições](../lei/README.md) no uso de mecanismos ou ferramentas na educação dos canídeos. 
 
 Clicar [aqui](../README.md) para voltar para a página principal
