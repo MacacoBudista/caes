@@ -11,7 +11,7 @@
 11. [A Legislação Portuguesa](./lei/README.md)
 12. [Desportos Caninos](./desporto/README.md)
 
-Esta página aceita contribuições para melhorar do conteúdo. Se quiser fazer alterações ou acrescentar conteúdo, abra uma [issue](https://github.com/MacacoBudista/caes/issues) para referir as melhorias e em seguida faça um [pull-request](https://github.com/MacacoBudista/caes) já com as alterações feitas, sendo que também poderá [discutir](https://github.com/MacacoBudista/caes/discussions) conteúdos como se fosse um fórum antes de fazer qualquer alteração, abrindo novos tópicos a ter em conta. 
+Esta página aceita contribuições para melhoramento do conteúdo. Se quiser fazer alterações ou acrescentar conteúdo, abra uma [issue](https://github.com/MacacoBudista/caes/issues) para referir as melhorias e em seguida faça um [pull-request](https://github.com/MacacoBudista/caes) já com as alterações feitas, sendo que também poderá [discutir](https://github.com/MacacoBudista/caes/discussions) conteúdos como se fosse um fórum antes de fazer qualquer alteração, abrindo novos tópicos a ter em conta. 
 
 **Nota**: Ainda estou no início do curso e como tal, existe muita informação que não está correctamente organizada, como também, não existe muito conteúdo sobre as práticas de treino. Este é um projecto para os próximos 365 dias, tentando atingir até lá, o conteúdo prático do curso. 
 
