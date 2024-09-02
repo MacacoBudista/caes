@@ -10,9 +10,9 @@
 10. [Noções Básicas de Técnicas de Treino](./treino/README.md)
 11. [A Legislação Portuguesa](./lei/README.md)
 12. [Desportos Caninos](./desporto/README.md)
-13. [Material para o cão e o treinador](./material/README.md)
+13. [Material de Treino](./material/README.md)
 
-Esta página aceita contribuições para melhoramento do conteúdo. Se quiser fazer alterações ou acrescentar conteúdo, abra uma [issue](https://github.com/MacacoBudista/caes/issues) para referir as melhorias e em seguida faça um [pull-request](https://github.com/MacacoBudista/caes) já com as alterações feitas, sendo que também poderá [discutir](https://github.com/MacacoBudista/caes/discussions) conteúdos como se fosse um fórum antes de fazer qualquer alteração, abrindo novos tópicos a ter em conta. 
+Esta página aceita contribuições para melhoramento do conteúdo. Se quiser fazer alterações ou acrescentar conteúdo, abra uma [issue](https://github.com/MacacoBudista/caes/issues) para referir as melhorias e em seguida faça um [pull-request](https://github.com/MacacoBudista/caes/pulls) já com as alterações feitas, sendo que também poderá [discutir](https://github.com/MacacoBudista/caes/discussions) conteúdos como se fosse um fórum antes de fazer qualquer alteração, abrindo novos tópicos a ter em conta. 
 
 **Nota**: Ainda estou no início do curso e como tal, existe muita informação que não está correctamente organizada, como também, não existe muito conteúdo sobre as práticas de treino. Este é um projecto para os próximos 365 dias, tentando atingir até lá, o conteúdo prático do curso. 
 
@@ -22,4 +22,4 @@ Esta página aceita contribuições para melhoramento do conteúdo. Se quiser fa
 - [Desafio Mundial](https://wiki.odicforcesounds.com): Página sobre um Desafio Mundial do Autor.
 - [Blog de Críticas](https://criticasempiedade.blogspot.com/): Blog onde o autor escreve sobre vários temas. 
 - [Macaco Preguiçoso](https://macacopreguicoso.blogspot.com/): Blog onde o autor escreve sobre técnologia web.
-- [Mastodon](https://masto.pt/@macaco): Pode contactar-me a partir desta rede social e seguir as publicações. 
+- [Mastodon](https://masto.pt/@macaco): Também pode contactar-me a partir desta rede social e seguir as publicações. 
