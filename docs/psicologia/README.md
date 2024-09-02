@@ -1,4 +1,22 @@
-<h3 style="text-align:center"> Linguagem Técnica da Psicologia e dos Estímulos Básicos</h3>
+<h4 style="text-align:center">Introdução à Psicologia Comportamental</h4>
+
+Na perspectiva psíquica e analitica do cão, existe um teste que é feito nos primeiros meses de vida e que serve para medir o possível carácter futuro do cão. A este teste dá-se o nome de [Teste de Campbell](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2327247/), que tem como principal objectivo saber qual é o comportamento do cão, ao nível da atratividade social, entre o cão e o dono. Este método é usado por criadores para saber se o cão se irá adaptar ao novo dono, e se existe alguma irregularidade comportamental do cão de negação, tal como virar as costas, rosnar ou tentar morder. Os resultados tẽm como objectivo principal saber se o cão é Dominante Agressivo, Dominante não-agressivo, Equilibrado, Submisso ou independente. 
+
+Também existe um método de análise, que tem como intuíto saber quais as aptidões do cão para funções especificas, tal como saber se está preparado para actividades desportivas, ou se o cão está mais preparado para funções de trabalho. A esta técnica de análise dá-se o nome de [Liakhoff](https://en.wikipedia.org/wiki/Nikolai_Liakhoff) e tem como principal objectivo medir a agressividade, a submissão, a vontade de agradar, a capacidade de adaptação, a concentração e a capacidade de abstração, como também saber se o cão sofre de algum medo. 
+
+**Nota Pessoal**: O Link do Liakhoff é relativo ao wikipédia, que foi um treinador de cães que preparava os canídeos para lidar com pessoas cegas. Nessa relação, aparece o [Guia de Cães para Invisuais](https://en.wikipedia.org/wiki/The_Guide_Dogs_for_the_Blind_Association)
+
+Ainda na fase Juvenil, pode-se tentar identificar problemas comportamentais, que poderão ser importantes observar, para evitar problemas futuros. Salvo haver certas raças que se demonstram agressivas desde tenra idade, a maioria dos cães saudáveis não se apresentam com essas características, tal como a agressividade com pessoas novas, o medo de outros cães ou de pessoas, a ansiedade de separação e a hiperatividade, que pode ser o resultado do ambiente em que vivem ou até o resultado das experiencias dos primeiros meses de vida. 
+
+**Ivan Pavlov** é o pioneiro do `condicionamento clássico`, que tem como principal objectivo criar mudanças comportamentais num cão, a partir da associação de estímulos. Estes estímulos podem ser naturais ou artificiais. A observação de comportamentos que tinham origem inata, tal como salivar ao apresentar comida, levou ao investigador a tentar manipular o comportamento do cão, introduzindo uma nova variavel artificial, tal como um som externo, tal como o de uma campainha. Aos estímulos naturais tal como a comida existe a resposta de salivar e ao estímulo artificial depois de ser associado à comida, existe também a salivação sem apresentar a comida. 
+
+Assim, este fisiologista descobre que é possível manipular e educar os cães a terem comportamentos que não teriam de forma natural, usando estímulos externos que podem ser positivos ou negativos e que irão ser úteis na definição comportamental destes cães. 
+
+A estes estímulos, dá-se o nome de `Reforço Positivo` e `Reforço Negativo` e servem para aumentar e melhorar um comportamento desejável, ou serve para diminuir e "apagar" um comportamento indesejável, respectivamente.
+
+É com base nestas técnicas educativas, que o treinador deve definir os comportamentos desejados e tentar impedir que os comportamentos indesejados aconteçam. Também por esta razão e por causa das variações educativas que os cães foram tendo ao longo do tempo, [definiu-se limites e proibições](../lei/README.md) no uso de mecanismos ou ferramentas na educação dos canídeos. 
+
+<h4 style="text-align:center"> Linguagem Técnica da Psicologia e dos Estímulos Básicos</h4>
 
 > O condicionamento clássico: 
 
@@ -43,22 +61,6 @@ Na perspectiva analítica do comportamento do cão, atribuiu-se a seguinte tabel
 3. Omissão
 4. Fuga 
 
-<h4 style="text-align:center">Introdução à Psicologia Comportamental</h4>
 
-Na perspectiva psíquica e analitica do cão, existe um teste que é feito nos primeiros meses de vida e que serve para medir o possível carácter futuro do cão. A este teste dá-se o nome de [Teste de Campbell](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2327247/), que tem como principal objectivo saber qual é o comportamento do cão, ao nível da atratividade social, entre o cão e o dono. Este método é usado por criadores para saber se o cão se irá adaptar ao novo dono, e se existe alguma irregularidade comportamental do cão de negação, tal como virar as costas, rosnar ou tentar morder. Os resultados tẽm como objectivo principal saber se o cão é Dominante Agressivo, Dominante não-agressivo, Equilibrado, Submisso ou independente. 
-
-Também existe um método de análise, que tem como intuíto saber quais as aptidões do cão para funções especificas, tal como saber se está preparado para actividades desportivas, ou se o cão está mais preparado para funções de trabalho. A esta técnica de análise dá-se o nome de [Liakhoff](https://en.wikipedia.org/wiki/Nikolai_Liakhoff) e tem como principal objectivo medir a agressividade, a submissão, a vontade de agradar, a capacidade de adaptação, a concentração e a capacidade de abstração, como também saber se o cão sofre de algum medo. 
-
-**Nota Pessoal**: O Link do Liakhoff é relativo ao wikipédia, que foi um treinador de cães que preparava os canídeos para lidar com pessoas cegas. Nessa relação, aparece o [Guia de Cães para Invisuais](https://en.wikipedia.org/wiki/The_Guide_Dogs_for_the_Blind_Association)
-
-Ainda na fase Juvenil, pode-se tentar identificar problemas comportamentais, que poderão ser importantes observar, para evitar problemas futuros. Salvo haver certas raças que se demonstram agressivas desde tenra idade, a maioria dos cães saudáveis não se apresentam com essas características, tal como a agressividade com pessoas novas, o medo de outros cães ou de pessoas, a ansiedade de separação e a hiperatividade, que pode ser o resultado do ambiente em que vivem ou até o resultado das experiencias dos primeiros meses de vida. 
-
-**Ivan Pavlov** é o pioneiro do `condicionamento clássico`, que tem como principal objectivo criar mudanças comportamentais num cão, a partir da associação de estímulos. Estes estímulos podem ser naturais ou artificiais. A observação de comportamentos que tinham origem inata, tal como salivar ao apresentar comida, levou ao investigador a tentar manipular o comportamento do cão, introduzindo uma nova variavel artificial, tal como um som externo, tal como o de uma campainha. Aos estímulos naturais tal como a comida existe a resposta de salivar e ao estímulo artificial depois de ser associado à comida, existe também a salivação sem apresentar a comida. 
-
-Assim, este fisiologista descobre que é possível manipular e educar os cães a terem comportamentos que não teriam de forma natural, usando estímulos externos que podem ser positivos ou negativos e que irão ser úteis na definição comportamental destes cães. 
-
-A estes estímulos, dá-se o nome de `Reforço Positivo` e `Reforço Negativo` e servem para aumentar e melhorar um comportamento desejável, ou serve para diminuir e "apagar" um comportamento indesejável, respectivamente.
-
-É com base nestas técnicas educativas, que o treinador deve definir os comportamentos desejados e tentar impedir que os comportamentos indesejados aconteçam. Também por esta razão e por causa das variações educativas que os cães foram tendo ao longo do tempo, [definiu-se limites e proibições](../lei/README.md) no uso de mecanismos ou ferramentas na educação dos canídeos. 
 
 Clicar [aqui](../README.md) para voltar para a página principal
