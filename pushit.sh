@@ -1,4 +1,5 @@
 #!/bin/bash
+
 # Notas: 
 # 1. Sara, estas notas são para ti, caso um dia queiras modificar alguma coisa, ou corrigir 
 # 2. Ao fazeres login no github, podes adicionar uma chave de SSH associada à tua conta. 
