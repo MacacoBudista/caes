@@ -17,7 +17,7 @@
 3. **Ansiedade de Separação**: "Chora a Vida"
 4. **Hiperatividade**: "Muita energia para dar e vender"
 
-<h5 style="text-align:center">Métodos Teóricos para eliminar Comportamentos Indesejáveis</h5>
+> Métodos Teóricos para eliminar Comportamentos Indesejáveis
 
 1. **Dessensibilização Sistemática Progressiva**: Consiste em expor um cão ao estímulo que desenvadeia o comportamento indesejável, sem que o comportamento indesejável ocorra. 
 2. **Contra-Condicionamento**: É a capacidade de associar um comportamento indesejável a outro comportamento desejável.  
@@ -47,7 +47,7 @@
 - **Os Processos Cognitivos Mediacionais**
 - **O Condicionamento de Substituição**
 
--*- Referência a [Albert Bandura](https://pt.wikipedia.org/wiki/Albert_Bandura) que provou que o aumento da violência, deve-se à visualização de violência. 
+-*- Referência a [Albert Bandura](https://pt.wikipedia.org/wiki/Albert_Bandura) que provou que o aumento da violência, deve-se à visualização de violência, como também se deve a ser vítima de violência. Tal como escrevi em alguns textos, uma pessoa violênta, terá tido uma educação igualmente violenta. 
 
 > Mecanismo de motivação
 
@@ -58,8 +58,5 @@
 
 - **Aptidão**: Capacidades fisiológicas
 - **Atitude**: Comportamentos aprendidos
-
-
-
 
 Clicar [aqui](../README.md) para voltar para a página principal
