@@ -12,9 +12,9 @@
 - [Desportos Caninos](./desporto/README.md)
 - [Material de Treino](./material/README.md)
 
-Esta página aceita contribuições para melhoramento do conteúdo. Se quiser fazer alterações ou acrescentar conteúdo, abra uma [issue](https://github.com/MacacoBudista/caes/issues) para referir as melhorias e em seguida faça um [pull-request](https://github.com/MacacoBudista/caes/pulls) já com as alterações feitas, sendo que também poderá [discutir](https://github.com/MacacoBudista/caes/discussions) conteúdos como se fosse um fórum antes de fazer qualquer alteração, abrindo novos tópicos a ter em conta. 
+Esta página aceita contribuições para melhoramento do conteúdo. Se quiser fazer alterações ou acrescentar conteúdo, inscreva-se no [Github](https://github.com/signup) e depois abra uma [issue](https://github.com/MacacoBudista/caes/issues) no repositório deste projecto, para referir as melhorias e em seguida faça um [pull-request](https://github.com/MacacoBudista/caes/pulls) já com as alterações feitas, sendo que também poderá [discutir](https://github.com/MacacoBudista/caes/discussions) conteúdos como se fosse um fórum antes de fazer qualquer alteração, abrindo novos tópicos a ter em conta. 
 
-**Nota**: Ainda estou no início do curso e como tal, existe muita informação que não está correctamente organizada, como também, não existe muito conteúdo sobre as práticas de treino. Este é um projecto para os próximos 365 dias, tentando atingir até lá, o conteúdo prático do curso. 
+**Nota**: Ainda estou no início do curso e como tal, existe muita informação que não está correctamente organizada, como também, não existe muito conteúdo sobre as práticas de treino. Este é um projecto para o próximo ano, tentando atingir até lá, o conteúdo prático do curso. 
 
 **Sobre o Autor**: 
 - [OdicforceSounds](https://art.odicforcesounds.com): Página artística do autor. 

@@ -35,7 +35,7 @@ Existe ainda a definição de <ins>punição</ins> que também é dual. Consider
 
 > Condicionamento Operante ou Instrumental
 
-**Nota Pessoal**: Na mesma perspectiva descrita ora no meu [endereço oficial](https://wiki.odicforcesounds.com), ora numa [publicação](https://criticasempiedade.blogspot.com/2024/08/justica-desafio-mundial-solucao-mundial.html) do blog, a técnica de "Reforço" ou de "Prémio" é uma das melhores abordagens para motivar à participação. Tal como todos os sistemas de rating, pode-se avaliar propriedades que podem ser positivas e negativas, sendo que é a partir desse mecanismo de avaliação que existe a função do estímulo. Se for um rate positivo a pessoa fica motivada e se for um rate negativo, a pessoa fica incomodada. 
+**Nota Pessoal**: Na mesma perspectiva descrita ora no meu [endereço oficial](https://wiki.odicforcesounds.com), ora numa [publicação](https://criticasempiedade.blogspot.com/2024/08/justica-desafio-mundial-solucao-mundial.html) do blog "criticasempiedade", a técnica de "Reforço" ou de "Prémio" é uma das melhores abordagens para motivar à participação. Tal como todos os sistemas de rating, pode-se avaliar propriedades que podem ser positivas ou negativas, sendo que é a partir desse mecanismo de avaliação que existe a função do estímulo. Se for um rate positivo a pessoa fica motivada e se for um rate negativo, a pessoa fica incomodada. 
 
 Na perspectiva analítica do comportamento do cão, atribuiu-se a seguinte tabela: 
 
