@@ -75,7 +75,7 @@ Falamos agora de cães que são usados pelos donos como animais de companhia e p
 - **Décimo Grupo**: [Galgos](https://www.fci.be/en/nomenclature/10-Sighthounds.html)
 Sejam galgos de pelo comprido e franjeado, de pelo cerdoso ou de pelo curto, estes cães elegantes e de longas pernas são dos animais terrestres mais rápidos do mundo, lado a lado com as chitas. Foram criados para o desempenho de tarefas concretas, como a caça de longa distância. De acordo com a origem de cada qual é possível diferenciar entre os galgos ocidentais e orientais – características destes últimos são as orelhas caídas e a independência de carácter, enquanto os galgos ocidentais são excelentes velocistas e têm orelhas cor-de-rosa.
 
-| Galgo 1 | Galgo 2 | Galgo 3 ! 
+| Galgo | Galgo | Galgo | 
 | --- | --- | --- | 
 | ![g1](../imagens/caes/galgo.png) | ![g2](../imagens/caes/galgo1.png) | ![g3](../imagens/caes/galgo2.png)  | 
 
