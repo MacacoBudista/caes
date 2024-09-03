@@ -1,7 +1,4 @@
-<h2 style="text-align:center">Doenças</h2>
-
-
-**Doenças Neurológicas**:
+<h3 style="text-align:center">Doenças Neurológicas</h3>
 
 **Epilépsia** 
 
