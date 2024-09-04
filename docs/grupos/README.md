@@ -1,7 +1,7 @@
 <h2 style="text-align:center">Classificação de Raças</h2>
 
 
-As diferentes raças de cães foram categorizadas em 10 diferentes grupos, para filtrar e dividir as difetentes raças em distinções estéticas e temperamentais, nas [344](https://en.wikipedia.org/wiki/List_of_dog_breeds) diferentes raças caninas.
+Existe [344](https://en.wikipedia.org/wiki/List_of_dog_breeds) raças caninas. A FCI subdivide as várias raças reconhecidas, em 10 grupos. Estes são: 
 
 - **Primeiro Grupo**: [Cães de Pastor e Boieiros](https://www.fci.be/en/nomenclature/1-Sheepdogs-and-Cattledogs-except-Swiss-Cattledogs.html)
 Todas as raças deste grupo têm como característica a enorme vontade de trabalharem em conjunto. Os cães de pastor são animais inteligentes animais de trabalho e são apreciados pela sua capacidade de estar em alerta. Raramente ladram e rapidamente se submetem à vontade dos humanos. Por outro lado, o instrumento de trabalho mais importante dos cães de pastoreio são precisamente os seus latidos, pois só assim conseguem reunir os rebanhos de ovelhas. Os Bearded Collie são cães alegres, de temperamento equilibrado e educados. Típica desta raça é a expressão empreendedora. O Cão de Pastor Branco Suiço evoluiu no  Canadá para uma raça independente – estes exemplares são ótimas companhias para crianças, além de atentos, e, ainda que nada agressivos, são excelentes cães de guarda.
