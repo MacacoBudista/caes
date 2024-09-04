@@ -22,7 +22,7 @@ Neste grupo incluem-se, além do Pinscher e do Schnauzer, o Smoushond, o Terrier
 - **Terceiro Grupo**: [Terriers](https://www.fci.be/en/nomenclature/3-Terriers.html)
 Neste grande grupo encontramos Terriers de tamanho grande e médio, Terriers de tamanho pequeno, Terriers de tipo Bull e Terriers de Companhia. Devido à sua aparência considerável, o Airedale Terrier é considerado o rei dos Terriers e é oriundo do condado de Yorkshire. Nesta zona, trabalhadores como mineiros ou agricultores precisavam de manter perto de si cães robustos para a caça e para conduzirem o gado, sendo os Airedale Terriers os animais indicados e que rapidamente encontraram muitos adeptos, em grande parte devido à sua fiabilidade e versatilidade. O Australian Terrier é uma raça que se adapta ao tamanho do apartamento citadino comum, desde que lhe sejam dadas oportunidades de fazer exercício suficiente. Originalmente esta era uma raça dedicada à guarda, pois os animais são robustos e fortes. O Fox Terrier de pelo cerdoso é também bastante comum na Europa, tendo sido bastante usado na caça da raposa e podendo ser visto em numerosos retratos históricos britânicos.
 
-| Ardale Terrier | Australian Terrier | Tox Fox Terrier | 
+| Airdale Terrier | Australian Terrier | Toy Fox Terrier | 
 | --- | --- | --- | 
 | ![art](../imagens/caes/airdaleter.png) | ![aut](../imagens/caes/australianter.png) | ![tft](../imagens/caes/toyfoxter.png)
 
