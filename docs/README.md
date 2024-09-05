@@ -1,6 +1,7 @@
 - [Introdução - A origem dos Cães](./intro/README.md) 
 - [Os Grupos de Raças de  Cães Reconhecidas pela FCI](./grupos/README.md)
-- [O Corpo do Cão](./corpo/README.md)
+- [Anatomia dos Canídeos](./corpo/README.md)
+- [As Capacidades Mentais dos Cães](./psicao/README.md)
 - [Conceitos Básicos sobre o Processo da Educação](./educa/README.md)
 - [Conceitos Básicos de Psicologia Comportamental](./psicologia/README.md)
 - [A Comunicação Canina](./comunica/README.md)
