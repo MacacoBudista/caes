@@ -11,6 +11,7 @@
 - [A Legislação Portuguesa](./lei/README.md)
 - [Desportos Caninos](./desporto/README.md)
 - [Material de Treino](./material/README.md)
+- [Livros em formato PDF e em Inglês sobre Cães](./livros/README.md)
 
 Esta página aceita contribuições para melhoramento do conteúdo. Se quiser fazer alterações ou acrescentar conteúdo, inscreva-se no [Github](https://github.com/signup) e depois abra uma [issue](https://github.com/MacacoBudista/caes/issues) no repositório deste projecto, para referir as melhorias e em seguida faça um [pull-request](https://github.com/MacacoBudista/caes/pulls) já com as alterações feitas, sendo que também poderá [discutir](https://github.com/MacacoBudista/caes/discussions) conteúdos como se fosse um fórum antes de fazer qualquer alteração, abrindo novos tópicos a ter em conta. 
 
