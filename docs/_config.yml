@@ -1,9 +1,7 @@
+permalink: /404.html 
 title: "Curso de Treinador de Cães"
 description: "Conteúdo informativo sobre vários aspectos dos canídeos"
 author:
   name: "Oscar FM"
   email: "i00nsu@duck.com"
-social_links: 
-- { platform: github, user_url: "https://github.com/MacacoBudista" }
 show_downloads: false
-
