@@ -1,6 +1,4 @@
-<h3 style="text-align:center">As Características Inatas</h3>
-
-Como se poderá ler nos diferentes grupos de cães que foram esquematizados, cada grupo apresenta diferentes características inatas que estão mais desenvolvidas do que outros grupos. Considera-se que as diferentes raças caninas desenvolveram qualidades especificas, umas que são mais predatórias e outras mais dóceis e sociais. Mesmo que todos os cães tenham características fisiológicas semelhantes ou até iguais, ao nível comportamental e temperamental, as qualidades emocionais de cada cão, permitem que cada grupo de cães, possa ter diferentes funções com base nas suas características físicas e temperamentais, sabendo que, são as experiências de cada animal, que potenciam ou diminuem as irregularidades comportamentais. As técnicas educativas é que serão as responsáveis pelo comportamento futuro dos animais em questão. 
+<h3 style="text-align:center"> Classificação </h3>
 
 Existe [344](https://en.wikipedia.org/wiki/List_of_dog_breeds) raças caninas. A [FCI](https://fci.be/en) subdivide as várias raças reconhecidas, em 10 grupos. Estes são: 
 
@@ -80,5 +78,9 @@ Sejam galgos de pelo comprido e franjeado, de pelo cerdoso ou de pelo curto, est
 | Galgo | Galgo | Galgo | 
 | --- | --- | --- | 
 | ![g1](../imagens/caes/galgo.png) | ![g2](../imagens/caes/galgo1.png) | ![g3](../imagens/caes/galgo2.png)  | 
+
+<h3 style="text-align:center">As Características Inatas</h3>
+
+Como se poderá ler nos diferentes grupos de cães que foram esquematizados, cada grupo apresenta diferentes características inatas que estão mais desenvolvidas do que outros grupos. Considera-se que as diferentes raças caninas desenvolveram qualidades especificas, umas que são mais predatórias e outras mais dóceis e sociais. Mesmo que todos os cães tenham características fisiológicas semelhantes ou até iguais, ao nível comportamental e temperamental, as qualidades emocionais de cada cão, permitem que cada grupo de cães, possa ter diferentes funções com base nas suas características físicas e temperamentais, sabendo que, são as experiências de cada animal, que potenciam ou diminuem as irregularidades comportamentais. As técnicas educativas é que serão as responsáveis pelo comportamento futuro dos animais em questão. 
 
 Clicar [aqui](../README.md) para voltar para a página principal
