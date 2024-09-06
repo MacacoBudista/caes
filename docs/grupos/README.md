@@ -9,7 +9,11 @@ Todas as raças deste grupo têm como característica a enorme vontade de trabal
 
 | Pastor Branco | Bearded Collie | Boiero | 
 | --- | --- | --- |
-| ![pb](../imagens/caes/pastor_branco_suico.png) | ![bc](../imagens/caes/bearded_collie.png) | ![b](../imagens/caes/boeiro.png) |  
+| ![pb](../imagens/caes/pastor_branco_suico.png) | ![bc](../imagens/caes/bearded_collie.png) | ![b](../imagens/caes/boeiro.png) |
+| **Origem**: Suíça | | 
+| **Tamanho**: Grande | | 
+| **Altura**: 55 / 70cm | | 
+
 
 - **Segundo Grupo**: [Cães de tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha, e Boieiros Suiços](https://www.fci.be/en/nomenclature/2-Pinscher-and-Schnauzer-Molossoid-and-Swiss-Mountain-and-Cattledogs.html)
 Neste grupo incluem-se, além do Pinscher e do Schnauzer, o Smoushond, o Terrier Preto Russo, as raças tipo Dogue, tipo Montanha e ainda os Boieiros Suiços. Na secção dos Pinscher estão contempladas as raças  Dobermann e o Pinscher Miniatura. Estes animais terão sido introduzidos, no início do século XIX, a partir de Inglaterra para a terra firme do continente europeu. A Affenpinscher é uma das mais antigas raças alemãs e as suas características têm permanecido praticamente inalteradas. Os exemplares desta raça podem viver até aos 15 anos e adoram pessoas. Além disso, derretem-se com mimos, são bons cães de guarda e não têm necessidade de grande atividade física.

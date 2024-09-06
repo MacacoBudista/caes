@@ -14,3 +14,5 @@
 12. [Basic Dog training](./15.%20Basic%20Dog%20Training%20(Article)%20author%20Dogs%20Trust.pdf)
 13. [Digging problems](./16.%20Digging%20Problems%20(Article)%20author%20Puppy%20Training%20Classes%20SIRIUS.pdf)
 14. [Multilinagual Dog Commands](./24.%20Multilingual%20Dog%20Commands%20(Article)%20author%20K9University%20OKC.pdf)
+
+Clicar [aqui](../README.md) para voltar para a página principal
