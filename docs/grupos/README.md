@@ -1,7 +1,8 @@
-<h2 style="text-align:center">Classificação de Raças</h2>
+<h3 style="text-align:center">As Características Inatas</h3>
 
+Como se poderá ler nos diferentes grupos de cães que foram esquematizados, cada grupo apresenta diferentes características inatas que estão mais desenvolvidas do que outros grupos. Considera-se que as diferentes raças caninas desenvolveram qualidades especificas, umas que são mais predatórias e outras mais dóceis e sociais. Mesmo que todos os cães tenham características fisiológicas semelhantes ou até iguais, ao nível comportamental e temperamental, as qualidades emocionais de cada cão, permitem que cada grupo de cães, possa ter diferentes funções com base nas suas características físicas e temperamentais, sabendo que, são as experiências de cada animal, que potenciam ou diminuem as irregularidades comportamentais. As técnicas educativas é que serão as responsáveis pelo comportamento futuro dos animais em questão. 
 
-Existe [344](https://en.wikipedia.org/wiki/List_of_dog_breeds) raças caninas. A FCI subdivide as várias raças reconhecidas, em 10 grupos. Estes são: 
+Existe [344](https://en.wikipedia.org/wiki/List_of_dog_breeds) raças caninas. A [FCI](https://fci.be/en) subdivide as várias raças reconhecidas, em 10 grupos. Estes são: 
 
 - **Primeiro Grupo**: [Cães de Pastor e Boieiros](https://www.fci.be/en/nomenclature/1-Sheepdogs-and-Cattledogs-except-Swiss-Cattledogs.html)
 Todas as raças deste grupo têm como característica a enorme vontade de trabalharem em conjunto. Os cães de pastor são animais inteligentes animais de trabalho e são apreciados pela sua capacidade de estar em alerta. Raramente ladram e rapidamente se submetem à vontade dos humanos. Por outro lado, o instrumento de trabalho mais importante dos cães de pastoreio são precisamente os seus latidos, pois só assim conseguem reunir os rebanhos de ovelhas. Os Bearded Collie são cães alegres, de temperamento equilibrado e educados. Típica desta raça é a expressão empreendedora. O Cão de Pastor Branco Suiço evoluiu no  Canadá para uma raça independente – estes exemplares são ótimas companhias para crianças, além de atentos, e, ainda que nada agressivos, são excelentes cães de guarda.
@@ -10,9 +11,6 @@ Todas as raças deste grupo têm como característica a enorme vontade de trabal
 | Pastor Branco | Bearded Collie | Boiero | 
 | --- | --- | --- |
 | ![pb](../imagens/caes/pastor_branco_suico.png) | ![bc](../imagens/caes/bearded_collie.png) | ![b](../imagens/caes/boeiro.png) |
-| **Origem**: Suíça | | 
-| **Tamanho**: Grande | | 
-| **Altura**: 55 / 70cm | | 
 
 
 - **Segundo Grupo**: [Cães de tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha, e Boieiros Suiços](https://www.fci.be/en/nomenclature/2-Pinscher-and-Schnauzer-Molossoid-and-Swiss-Mountain-and-Cattledogs.html)

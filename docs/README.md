@@ -29,6 +29,6 @@ Esta página aceita contribuições para melhoramento do conteúdo. Se quiser fa
 **Extra**: 
 - [Livros em formato PDF e em Inglês sobre Cães](./livros/README.md)
 
-**Contagem de Clicks**: 
+**Contagem de Visualização de Páginas**: 
 
 - ![Visitor Count](https://profile-counter.glitch.me/MacacoBudista/count.svg)
