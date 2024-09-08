@@ -22,9 +22,15 @@ Esta página aceita contribuições para melhoramento do conteúdo. Se quiser fa
 - [OdicforceSounds](https://art.odicforcesounds.com): Página artística do autor. 
 - [Monkey Book](https://book.odicforcesounds.com): Uma simplificação da página artística do autor. 
 - [Desafio Mundial](https://wiki.odicforcesounds.com): Página sobre um Desafio Mundial do Autor.
+- [Github](https://github.com/odicforcesounds): Hospedagem do código dos três endereços anteriores escritos pelo autor.  
+- [Bandcamp](https://odicforcesounds.bandcamp.com/): Faixas audio do autor. Vinte e dois albuns, custo de 3 euros cada. 
+- [Google](https://sites.google.com/site/odicforcesoundsrecords/as-janelas-das-consequencias-das-sequencias): Outra versão do endereço principal do autor. 
 - [Blog de Críticas](https://criticasempiedade.blogspot.com/): Blog onde o autor escreve sobre vários temas. 
 - [Macaco Preguiçoso](https://macacopreguicoso.blogspot.com/): Blog onde o autor escreve sobre técnologia web.
+
+**Contacto**: 
 - [Mastodon](https://masto.pt/@macaco): Também pode contactar-me a partir desta rede social e seguir as publicações. 
+- [Keybase](https://keybase.io/path_of_shields): Também pode contactar-me a partir desta rede social segura. 
 
 **Extra**: 
 - [Livros em formato PDF e em Inglês sobre Cães](./livros/README.md)
