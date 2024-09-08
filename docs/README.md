@@ -35,6 +35,11 @@ Esta página aceita contribuições para melhoramento do conteúdo. Se quiser fa
 **Extra**: 
 - [Livros em formato PDF e em Inglês sobre Cães](./livros/README.md)
 
-**Contagem de Visualização de Páginas**: 
+**Online Streaming**: 
+- [Pet Club TV](https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8): TV chinesa com vídeos divertidos de animais. 
+- [Pet Collective](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8): TV americana com vídeos divertidos de animais. 
+- [Dogs 24/7](http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b329e0a7b9d8872aeb49ceb/master.m3u8): TV de desportos com cães.
 
+
+**Contagem de Visualização de Páginas**: 
 - ![Visitor Count](https://profile-counter.glitch.me/MacacoBudista/count.svg)
