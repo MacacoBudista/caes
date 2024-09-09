@@ -8,10 +8,11 @@
 - [Conceitos Básicos sobre o Processo da Educação](./educa/README.md)
 - [Conceitos Básicos de Psicologia Comportamental](./psicologia/README.md)
 - [Ferramentas de Treino](./material/README.md)
-- [Noções Básicas de Técnicas de Treino](./treino/README.md)
+- [Noções Básicas de Técnicas de Treino](./psicao/README.md)
 - [Desportos Caninos](./desporto/README.md)
 - [Lidar com Comportamentos Agressivos](./agressividade/README.md)
 - [A Legislação Portuguesa](./lei/README.md)
+- [Técnicas de Treino Canino](treino/README.md)
 
 
 Esta página aceita contribuições para melhoramento do conteúdo. Se quiser fazer alterações ou acrescentar conteúdo, inscreva-se no [Github](https://github.com/signup) e depois abra uma [issue](https://github.com/MacacoBudista/caes/issues) no repositório deste projecto, para referir as melhorias e em seguida faça um [pull-request](https://github.com/MacacoBudista/caes/pulls) já com as alterações feitas, sendo que também poderá [discutir](https://github.com/MacacoBudista/caes/discussions) conteúdos como se fosse um fórum antes de fazer qualquer alteração, abrindo novos tópicos a ter em conta. 
@@ -26,7 +27,7 @@ Esta página aceita contribuições para melhoramento do conteúdo. Se quiser fa
 - [Bandcamp](https://odicforcesounds.bandcamp.com/): Faixas audio do autor. Vinte e dois albuns, custo de 3 euros cada. 
 - [Google](https://sites.google.com/site/odicforcesoundsrecords/as-janelas-das-consequencias-das-sequencias): Outra versão do endereço principal do autor. 
 - [Blog de Críticas](https://criticasempiedade.blogspot.com/): Blog onde o autor escreve sobre vários temas. 
-- [Macaco Preguiçoso](https://macacopreguicoso.blogspot.com/): Blog onde o autor escreve sobre técnologia web.
+- [Macaco Preguiçoso](https://macacopreguicoso.blogspot.com/): Blog onde o autor escreve sobre tecnologia web.
 
 **Contacto**: 
 - [Mastodon](https://masto.pt/@macaco): Também pode contactar-me a partir desta rede social e seguir as publicações. 
