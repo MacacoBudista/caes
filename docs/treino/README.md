@@ -30,6 +30,5 @@
 
 **Conclusão**: `As Aulas de Grupo São Uma Mais-Valia para Ti e para o Teu Cão`: As aulas de grupo para cães oferecem uma variedade de benefícios que vão muito além do simples treinamento de comandos básicos. Elas promovem a socialização, ajudam o teu cão a focar-se em ti mesmo com distrações, ensinam-no a aprender por observação, fortalecem o vosso vínculo, e proporcionam um ambiente de apoio onde podes aprender com outros donos. Para além disso, o treino diversificado prepara o teu cão para lidar com diferentes situações no dia-a-dia, e a acessibilidade das aulas de grupo torna este tipo de treinamento disponível para muitos donos que, de outra forma, não poderiam pagar por sessões individuais.
 
-Conclusão: `As Aulas de Grupo São Uma Mais-Valia para Ti e para o Teu Cão`: As aulas de grupo para cães oferecem uma variedade de benefícios que vão muito além do simples treinamento de comandos básicos. Elas promovem a socialização, ajudam o teu cão a focar-se em ti mesmo com distrações, ensinam-no a aprender por observação, fortalecem o vosso vínculo, e proporcionam um ambiente de apoio onde podes aprender com outros donos.
 
 Clicar [aqui](../README.md) para voltar para a página principal
