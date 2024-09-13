@@ -1,3 +1,6 @@
+tags que podem ser usadas nos documentos
+
+
 <img style="width:300px" src="">
 
 style="text-align:center"
