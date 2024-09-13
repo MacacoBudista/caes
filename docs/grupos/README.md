@@ -2,16 +2,62 @@
 
 Existe [344](https://en.wikipedia.org/wiki/List_of_dog_breeds) raças caninas. A [FCI](https://fci.be/en) subdivide as várias raças reconhecidas, em 10 grupos. Estes são: 
 
-- **Primeiro Grupo**: [Cães de Pastor e Boieiros](https://www.fci.be/en/nomenclature/1-Sheepdogs-and-Cattledogs-except-Swiss-Cattledogs.html)
-Todas as raças deste grupo têm como característica a enorme vontade de trabalharem em conjunto. Os cães de pastor são animais inteligentes animais de trabalho e são apreciados pela sua capacidade de estar em alerta. Raramente ladram e rapidamente se submetem à vontade dos humanos. Por outro lado, o instrumento de trabalho mais importante dos cães de pastoreio são precisamente os seus latidos, pois só assim conseguem reunir os rebanhos de ovelhas. Os Bearded Collie são cães alegres, de temperamento equilibrado e educados. Típica desta raça é a expressão empreendedora. O Cão de Pastor Branco Suiço evoluiu no  Canadá para uma raça independente – estes exemplares são ótimas companhias para crianças, além de atentos, e, ainda que nada agressivos, são excelentes cães de guarda.
+### Primeiro Grupo
+
+- Cães de Pasto e Boeiros
 
 
-| Pastor Branco | Bearded Collie | Boiero | 
-| --- | --- | --- |
-| ![pb](../imagens/caes/pastor_branco_suico.png) | ![bc](../imagens/caes/bearded_collie.png) | ![b](../imagens/caes/boeiro.png) |
+Todas as raças deste grupo têm como característica a enorme vontade de trabalharem em conjunto. São ótimas companhias para crianças, além de atentos, e, ainda que nada agressivos, são excelentes cães de guarda.
+
+| País de Origem | Nomenclatura Oficial | Temperamento | Imagem | 
+| --- | --- | --- | --- |  
+| Australia | [Kelpie Australiano](https://www.fci.be/Nomenclature/Standards/293g01-en.pdf) | Pacífico, Energético, Guarda | <img src="https://nfnatcane.es/blog/wp-content/uploads/2019/12/perro-de-raza-Kelpie-australiano.jpg" style="width:300px">| 
+| Bélgica | [Cães Belga](https://www.fci.be/Nomenclature/Standards/015g01-en.pdf) | Pacífico, Energético, Guarda | | 
+| Bélgica | Groenendael | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://media.ooreka.fr/public/image/3-305495-2643-full-13120851.jpg"> | 
+| Bélgica| Laekenois | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://fwkc-cloudinary.corebine.com/fwkc-production/image/upload/v1/fwkc-prod/6267_8x10"> | 
+|Bélgica | Malinois | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://cdn.britannica.com/85/232785-050-0EE871BE/Belgian-Malinois-dog.jpg"> | 
+| Bélgica| Tervueren | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://media.ooreka.fr/public/image/3-306011-2813-full-13459353.jpg"> | 
+| Bégica | [Schipperke](https://www.fci.be/Nomenclature/Standards/083g01-en.pdf) | Pacifico, Emergético |  <img style="width:300px" src="https://breedadvisor.com/wp-content/uploads/2020/04/schipperke-header.gif"> | 
+| Croácia | [Cão de Pasto Croáta](https://www.fci.be/Nomenclature/Standards/277g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://welpen.vdh.de/fileadmin/_processed_/c/1/csm_75e112a1e86920c6eeb12cbf6a0bf3c70578cf7d_2399cdfc94.jpg"> | 
+| Checoslováquia | [Cão Lobo Checo](https://www.fci.be/Nomenclature/Standards/332g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://www.mascotarios.org/wp-content/smush-webp/2020/04/perro-lobo-checoslovaco.jpg.webp"> | 
+| França | [Berger](https://www.fci.be/Nomenclature/Standards/044g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="http://www.bergersdebeauce.fr/wp-content/uploads/2019/04/berger-Beauce-1-768x688.jpg"> | 
+| França | [Briard](https://www.fci.be/Nomenclature/Standards/113g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://chatschiens.com/wp-content/uploads/2020/10/Briard-Berger-de-Brie-04.jpg"> | 
+| França | [Pyrenean](https://www.fci.be/Nomenclature/Standards/141g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://breedadvisor.com/wp-content/uploads/2020/02/PYRENEAN-SHEPHERED-LONG-HAIRED.jpg"> | 
+| França | [Picard](https://www.fci.be/Nomenclature/Standards/176g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="http://www.dogwallpapers.net/wallpapers/quaternion-lovely-berger-picard-dogs-picture.jpg"> | 
+| França | [Pyrenean 2](https://www.fci.be/Nomenclature/Standards/138g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://thekennelclub.org.uk/media/4425/pyrenean-sheepdog-smooth-faced-1.jpg"> | 
+| Alemanha | [Pastor Alemão](https://www.fci.be/Nomenclature/Standards/166g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://www.dogexpress.in/wp-content/uploads/2016/02/German-shepherd-dog-hd-wallpapers-beautiful-desktop-images-widescreen-1.jpg"> | 
+| Inglaterra | [Bearded Collie](https://www.fci.be/Nomenclature/Standards/271g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://nosamisleschiens.fr/wp-content/uploads/2014/12/Bearded-Collie-scaled.jpeg"> | 
+| Inglaterra | [Border Collie](https://www.fci.be/Nomenclature/Standards/297g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://www.zooplus.de/magazin/wp-content/uploads/2017/03/border-collie.jpeg"> | 
+| Inglaterra | [Collie Rough](https://www.fci.be/Nomenclature/Standards/156g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://upload.wikimedia.org/wikipedia/commons/7/70/Rough_Collie_KC.jpg"> | 
+| Inglaterra | [Collie Smooth](https://www.fci.be/Nomenclature/Standards/296g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://woofbarkgrowl.co.uk/wp-content/uploads/2021/03/smooth-collie-5-2048x1306.jpeg"> | 
+| Inglaterra | [Antigo Cão de Pasto Inglês](https://www.fci.be/Nomenclature/Standards/016g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://images2.alphacoders.com/548/548729.jpg"> | 
+| Inglaterra | [Cão de Pasto de Shetland](https://www.fci.be/Nomenclature/Standards/088g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://dogbreeds.wiki/uploads/s/shetland-sheepdog-photo-11.jpg"> | 
+| Hungria | [Komondor](https://www.fci.be/Nomenclature/Standards/053g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://www.everycreaturecounts.org/wp-content/uploads/2020/11/How-Funny-Looking-is-a-Komondor-1536x1024.jpg"> | 
+| Hungria | [Kuvasz](https://www.fci.be/Nomenclature/Standards/054g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://media-be.chewy.com/wp-content/uploads/2021/06/16162600/Kuvasz-FeaturedImage.jpg"> | 
+| Hungria | [Mudi](https://www.fci.be/Nomenclature/Standards/238g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://i.pinimg.com/originals/3b/63/b9/3b63b9a610d65e0a1e2bc8b517e6acb4.jpg"> | 
+| Hungria | [Puli](https://www.fci.be/Nomenclature/Standards/055g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
+| Hungria | [Pumi](https://www.fci.be/Nomenclature/Standards/056g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
+| Italia | [Bergamasco](https://www.fci.be/Nomenclature/Standards/194g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
+| Italia | [Maremma](https://www.fci.be/Nomenclature/Standards/201g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
+| Polónia | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
+| Polónia | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
+| Portugal | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
+| Roménia | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
+| Roménia | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
+| Rússia | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
+| Islováquia | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
+| Espanha | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
+| Espanha | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
+| Suiça | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
+| Holanda | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
+| Holanda | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
+| Holanda | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
+| USA | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
 
 
-- **Segundo Grupo**: [Cães de tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha, e Boieiros Suiços](https://www.fci.be/en/nomenclature/2-Pinscher-and-Schnauzer-Molossoid-and-Swiss-Mountain-and-Cattledogs.html)
+#### Segundo Grupo
+
+[Cães de tipo Pinscher e Schnauzer, Molossóides e Cães de Montanha, e Boieiros Suiços](https://www.fci.be/en/nomenclature/2-Pinscher-and-Schnauzer-Molossoid-and-Swiss-Mountain-and-Cattledogs.html)
 Neste grupo incluem-se, além do Pinscher e do Schnauzer, o Smoushond, o Terrier Preto Russo, as raças tipo Dogue, tipo Montanha e ainda os Boieiros Suiços. Na secção dos Pinscher estão contempladas as raças  Dobermann e o Pinscher Miniatura. Estes animais terão sido introduzidos, no início do século XIX, a partir de Inglaterra para a terra firme do continente europeu. A Affenpinscher é uma das mais antigas raças alemãs e as suas características têm permanecido praticamente inalteradas. Os exemplares desta raça podem viver até aos 15 anos e adoram pessoas. Além disso, derretem-se com mimos, são bons cães de guarda e não têm necessidade de grande atividade física.
 
 | Pinscher | Schnauzer | Boeiro Suíço | 
