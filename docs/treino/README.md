@@ -1,8 +1,31 @@
 # Treinar / Ensinar cães 
 
+- O primeiro passo está em escolher um nome que se destinga de forma sonora, para que o cão faça a destinção facilmente. Sempre que o cão olhar ao ouvir o "seu nome", premeie a sua atenção com uma recompensa, ora alimentar, ora na interação de um brinquedo, ora fazendo festinhas e demonstrando-se contente. 
+
 **Nota**: Treinar cães é um processo que leva algum tempo e que poderá precisar de repetir durante toda a vida do cão. Dependendo do objectivo educativo que queremos oferecer ao cão, existem raças de cães mais aconselhadas do que outras, sendo que na verdade é a partir do treino, que o comportamento do cão irá moldar-se. Como se tentou explicar na página que descreve os diferentes [grupos](../grupos/README.md) de cães, há raças que têm **temperamentos** que poderão ser usados em diferentes objectivos e em diferentes condições. Se o cão é energético, potencialmente agressivo, protector, ajudante de famílias ou até de companhia, é algo que deverá ter em conta antes de escolher o cão. Caso o cão seja considerado popularmente como "rafeiro", poderá ser importante saber quais as raças dos cães que o deram à luz, sendo que não é essencial. 
 
-**Nota**: O primeiro passo está em escolher um nome que se destinga de forma sonora, para que o cão faça a destinção facilmente. Sempre que o cão olhar ao ouvir o "seu nome", premeie a sua atenção com uma recompensa, ora alimentar, ora na interação de um brinquedo, ora fazendo festinhas e demonstrando-se contente. 
+## Modalidades de intervenções Assistidas por Cães
+
+- A [Animas Portugal](https://animasportugal.org) é a entidade responsável pela definição educativa das 4 qualidades seguintes: 
+
+<div style="text-align:center">
+
+| TAC | EAC | AAC | JAC | 
+| --- | --- | --- | --- |
+| Terapias Assistida por Cães | Educação Assistida por Cães | Actividades Assistida por Cães | Justiça Assistida por Cães | 
+| Contexto de Saúde | Contexto de Educação | Contexto Social e de Lazer | Contexto Judiciário e Judicial | 
+
+</div>
+
+### As cinco Liberdades que asseguram o bem-estar animal
+
+1. Livre de Fome e Sede
+2. Livre de Medo ou Stress
+3. Livre de Desconforto
+4. Livre de Expressar o seu comportamento normal
+5. Livre de Dor e Doença 
+
+#### Rotinas 
 
 1. As sessões de treino deveriam acontecer duas a três vezes por dia, com sessões de 15 a 20 minutos. Os cães ainda novos, tal como as crianças têm um défice de atenção e ficar aborrecidos facilmente. O objectivo não é dominar o cão, mas dar-lhe a sensação de que o conteúdo do treino é algo divertido. 
 2. Se o temperamento expressivo do treinador for positivo, a resposta ao treino é positiva. Caso o modo de comunicar seja negativo o cão irá aprender a não confiar e a não obedecer ao treinador ou seja lá quem for. 
@@ -13,6 +36,9 @@
 7. Se o cão ladrar por motivos de excitação, ignore os latidos de forma a não lhe dar a noção de que é capaz de atingir os seus objectivos sempre que "protesta". 
 8. Leva o cão a passear de forma regular para que o cão faça bastante exercício físico e dessa forma, se sinta feliz. 
 9. Evite ao máximo dar puxões quando estiver a ensinar o cão a andar "junto". Pare e fique à espera que ele olhe para si. Depois dele parar, poderá continuar. Repita o processo até que o cão não sinta necessidade de ultrapassa-lo. 
+
+
+<div style="text-align:justify">
 
 **Socialização**: `Mais que Apenas Brincadeiras`: Um dos maiores desafios que muitos donos enfrentam é garantir que o seu cão seja bem socializado. Isto é, que ele saiba interagir adequadamente com outros cães e pessoas. As aulas de grupo são uma excelente oportunidade para o teu cão se socializar de forma segura e controlada. Ao estar em contacto com outros cães de diferentes tamanhos, raças e personalidades, o teu cão aprende a conviver em harmonia com os outros, o que é crucial para evitar comportamentos agressivos ou demasiado tímidos. E, vamos ser honestos, um cão bem socializado é muito mais fácil de lidar em situações do dia-a-dia, como passeios no parque, visitas ao veterinário, ou até mesmo quando recebes visitas em casa.
 
@@ -30,5 +56,6 @@
 
 **Conclusão**: `As Aulas de Grupo São Uma Mais-Valia para Ti e para o Teu Cão`: As aulas de grupo para cães oferecem uma variedade de benefícios que vão muito além do simples treinamento de comandos básicos. Elas promovem a socialização, ajudam o teu cão a focar-se em ti mesmo com distrações, ensinam-no a aprender por observação, fortalecem o vosso vínculo, e proporcionam um ambiente de apoio onde podes aprender com outros donos. Para além disso, o treino diversificado prepara o teu cão para lidar com diferentes situações no dia-a-dia, e a acessibilidade das aulas de grupo torna este tipo de treinamento disponível para muitos donos que, de outra forma, não poderiam pagar por sessões individuais.
 
+</div>
 
 Clicar [aqui](../README.md) para voltar para a página principal
