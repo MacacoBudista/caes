@@ -1,6 +1,7 @@
 
 <h2 style="text-align:center">Legislação Portuguesa</h2>
 
+<div style="text-align:justify">
 
 **Lei dos cães potencialmente perigosos**: [DL Nº 315/2009 de 29 de Outubro](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402): 
 
@@ -12,6 +13,8 @@
 
 **Comentário**: Em referência ao último [artigo do blog](https://criticasempiedade.blogspot.com/2024/08/bica-no-bica-5-falta-de.html) como crítica aos serviços da *Nubika*: 
 Como tal, pode-se dizer que um cão que já **mordeu**, é **potencialmente perigoso**, pois pode voltar a morder. Sendo que ao ser **potencialmente perigo**, implicitamente é um cão **perigoso**. Este é um dos problemas que a *Nubika*, deverá ter o cuidado de tentar evitar, pois são questões lógicas que levam ao erro interpretativo, sendo que a diferença entre ambas as definições, está relacionada com o comportamento do animal e não às características que os cães considerados **potencialmente perigosos** apresentam como ``potenciais`` ou ``possíveis`` comportamentos prováveis. 
+
+</div>
 
 **Outras leis defendem o bom trato de animais de companhia**: 
 - Estas leis defendem os atos de terceiros que podem violar a lei, de forma a permitir que o animal não sofra danos maiores ou a morte. 
