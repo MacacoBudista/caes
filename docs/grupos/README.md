@@ -35,24 +35,22 @@ Todas as raças deste grupo têm como característica a enorme vontade de trabal
 | Hungria | [Komondor](https://www.fci.be/Nomenclature/Standards/053g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://www.everycreaturecounts.org/wp-content/uploads/2020/11/How-Funny-Looking-is-a-Komondor-1536x1024.jpg"> | 
 | Hungria | [Kuvasz](https://www.fci.be/Nomenclature/Standards/054g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://media-be.chewy.com/wp-content/uploads/2021/06/16162600/Kuvasz-FeaturedImage.jpg"> | 
 | Hungria | [Mudi](https://www.fci.be/Nomenclature/Standards/238g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://i.pinimg.com/originals/3b/63/b9/3b63b9a610d65e0a1e2bc8b517e6acb4.jpg"> | 
-| Hungria | [Puli](https://www.fci.be/Nomenclature/Standards/055g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
-| Hungria | [Pumi](https://www.fci.be/Nomenclature/Standards/056g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
-| Italia | [Bergamasco](https://www.fci.be/Nomenclature/Standards/194g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
-| Italia | [Maremma](https://www.fci.be/Nomenclature/Standards/201g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
-| Polónia | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
-| Polónia | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
-| Portugal | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
-| Roménia | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
-| Roménia | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
-| Rússia | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
-| Islováquia | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
-| Espanha | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
-| Espanha | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
-| Suiça | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
-| Holanda | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
-| Holanda | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
-| Holanda | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
-| USA | []() | Pacífico, Energético, Guarda |  <img style="width:300px" src=""> | 
+| Hungria | [Puli](https://www.fci.be/Nomenclature/Standards/055g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://petsfeed.co/wp-content/uploads/2019/11/Puli-dog-03.jpg"> | 
+| Hungria | [Pumi](https://www.fci.be/Nomenclature/Standards/056g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://img.dog-learn.com/dog-breeds/pumi/pumi-i1.jpg"> | 
+| Italia | [Bergamasco](https://www.fci.be/Nomenclature/Standards/194g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://www.nativebreed.org/wp-content/uploads/2020/06/Bergamasco1.jpg"> | 
+| Italia | [Maremma](https://www.fci.be/Nomenclature/Standards/201g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://img.dog-learn.com/dog-breeds/maremma-sheepdog/maremma-sheepdog-i2.jpg"> | 
+| Polónia | [Cão dos Paises Baixos Poláco](https://www.fci.be/Nomenclature/Standards/251g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://www.houdenvanhonden.nl/globalassets/rassen/fci-1/polski-owczarek-nizinny/04.jpg"> | 
+| Polónia | [Cão Tatra de Pasto](https://www.fci.be/Nomenclature/Standards/252g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://www.edogs.de/magazin/wp-content/uploads/Tatra-Schaeferhund-von-der-Seite.jpg"> | 
+| Portugal | [Cão da Serra de Aires](https://www.fci.be/Nomenclature/Standards/093g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://www.inseparabile.com/wp-content/uploads/2020/04/cao-da-serra-Aires..jpg"> | 
+| Roménia | [Cão de Pasto Romeno](https://www.fci.be/Nomenclature/Standards/350g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://www.nieuwehond.nl/wp-content/uploads/2016/09/Ciobanesc-Romanesc-Carpatin-Depositphotos_179247846_S.jpg"> | 
+| Roménia | [Cão de Pasto Romeno Mioritic](https://www.fci.be/Nomenclature/Standards/349g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://www.dog-training4u.co.uk/blog/wp-content/uploads/2018/05/fullsizeoutput_1484.jpeg"> | 
+| Rússia | [Cão de Pasto Russo](https://www.fci.be/Nomenclature/Standards/326g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://puppyshow.ru/wa-data/public/shop/img/yuzhnorusskaya-ovcharka1.jpg"> | 
+| Islováquia | [Cão de Pasto Eslováco]() | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://wikidog.info/wp-content/uploads/2023/03/8re3.jpg"> | 
+| Espanha | [Cão de Pasto Catalão](https://www.fci.be/Nomenclature/Standards/087g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://i.pinimg.com/originals/dd/8d/3f/dd8d3fd126645db9a0c13b64eb06e298.jpg"> | 
+| Suiça | [Cão Branco de Pasco Suíço](https://www.fci.be/Nomenclature/Standards/347g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://www.bubblypet.com/wp-content/uploads/2022/12/White-Swiss-Shepherd-dog-on-a-field-outside-1200x800.jpg"> | 
+| Holanda | [Cão de Pasto Holandês 1](https://www.fci.be/Nomenclature/Standards/313g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://szh.nl/wp-content/uploads/2019/02/DB-Nederlandse-Schapendoes-e1558646840580.jpg"> | 
+| Holanda | [Cão de Pasto Holandês 2](https://www.fci.be/Nomenclature/Standards/223g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://cdn.akc.org/akcdoglovers/sh_15.jpg"> | 
+| Holanda | [Cão Lobo Holandês](https://www.fci.be/Nomenclature/Standards/311g01-en.pdf) | Pacífico, Energético, Guarda |  <img style="width:300px" src="https://puppytoob.com/wp-content/uploads/2016/09/Saarloos-Wolfdog.jpg"> | 
 
 
 #### Segundo Grupo
